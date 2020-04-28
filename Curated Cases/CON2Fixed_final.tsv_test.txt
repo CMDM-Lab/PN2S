@@ -1,0 +1,1420 @@
+ID:P070307
+Name:poly[(4,4'-diacetylbiphenyl)-alt-(6,6''-diamino-3,3''-oxydibenzophenone)]
+Polymer Smiles:[*]c1ccc(c2ccc(c(cc3C4=CC=CC=C4)nc5c3cc(Oc(cc6)cc7c6nc([*])cc7C8=CC=CC=C8)cc5)cc2)cc1
+Monomer Smiles 1: CC(=O)c1ccc(cc1)-c1ccc(cc1)C(C)=O
+Monomer Smiles 2: Nc1ccc(Oc2ccc(N)c(c2)C(=O)c2ccccc2)cc1C(=O)c1ccccc1
+ID:P070308
+Name:poly{[1,1'-(oxydi-4,1-phenylene)bisethanone]-alt-(2,2'-dibenzoyl-4,4'-oxydianiline)}
+Polymer Smiles:[*]c1ccc(Oc2ccc(c(cc3C4=CC=CC=C4)nc5c3cc(Oc(cc6)cc7c6nc([*])cc7C8=CC=CC=C8)cc5)cc2)cc1
+Monomer Smiles 1: CC(=O)c1ccc(Oc2ccc(cc2)C(C)=O)cc1
+Monomer Smiles 2: Nc1ccc(Oc2ccc(N)c(c2)C(=O)c2ccccc2)cc1C(=O)c1ccccc1
+ID:P070557
+Name:poly[(4,6-diaminoresorcinol)-alt-(terephthalic acid)]
+Polymer Smiles:[*]c(o1)nc2c1cc(oc(c3ccc([*])cc3)n4)c4c2
+Monomer Smiles 1: Nc1cc(N)c(O)cc1O
+Monomer Smiles 2: OC(=O)c1ccc(cc1)C(O)=O
+ID:P074566
+Name:acetylated poly[epichlorohydrin-alt-(4,4'-sulfonyldiphenol)]
+Polymer Smiles:[*]OCC(COc1ccc(S(=O)(c2ccc([*])cc2)=O)cc1)OCC(C)=O
+Monomer Smiles 1: ClCC1CO1
+Monomer Smiles 2: Oc1ccc(cc1)S(=O)(=O)c1ccc(O)cc1
+ID:P080088
+Name:poly({2,2'-[ethylenebis(sulfanediyl)]bis(ethylamine)}-alt-[cyclohexane-1,4-diyl bis(chloroformate)])
+Polymer Smiles:*OCC1CCC(COC(=O)NCCSCCSCCNC(*)=O)CC1
+Monomer Smiles 1: NCCSCCSCCN
+Monomer Smiles 2: O=C(Cl)OCC(CC1)CCC1COC(Cl)=O
+ID:P080090
+Name:poly({2,2'-[butane-1,4-diylbis(sulfanediyl)]bis(ethylamine)}-alt-[cyclohexane-1,4-diyl bis(chloroformate)])
+Polymer Smiles:*OCC1CCC(COC(=O)NCCSCCCCSCCNC(*)=O)CC1
+Monomer Smiles 1: NCCSCCCCSCCN
+Monomer Smiles 2: O=C(Cl)OCC(CC1)CCC1COC(Cl)=O
+ID:P080114
+Name:poly{[benzene-1,4-bis(ethylamine)]-alt-(7,7'-sulfanediyldiheptanoic acid)}
+Polymer Smiles:*CCCCCC(=O)NCCc1ccc(CCNC(=O)CCCCCS*)cc1
+Monomer Smiles 1: NCCc1ccc(CCN)cc1
+Monomer Smiles 2: O=C(O)CCCCCSCCCCCC(O)=O
+ID:P080138
+Name:poly{[1,4-bis(bromoacetyl)benzene]-alt-[butanebis(thioamide)]}
+Polymer Smiles:*CCCCc1nc(cs1)-c1ccc(cc1)-c1csc(*)n1
+Monomer Smiles 1: BrCC(=O)c1ccc(cc1)C(=O)CBr
+Monomer Smiles 2: NC(CCCCC(N)=S)=S
+ID:P084393
+Name:poly(methylhydroquinone-alt-{3,3'-[terephthaloylbis(oxy-m-phenylenesulphanediyl)]dibenzoic acid})
+Polymer Smiles:Cc1cc(OC(=O)c2cccc(Sc3ccc(OC(=O)c4ccc(cc4)C(=O)Oc4ccc(Sc5cccc(c5)C(*)=O)cc4)cc3)c2)ccc1O*
+Monomer Smiles 1: Cc1cc(O)ccc1O
+Monomer Smiles 2: O=C(c1ccc(C(Oc2ccc(SC3=CC=CC(C(O)=O)=C3)cc2)=O)cc1)Oc4ccc(SC5=CC=CC(C(O)=O)=C5)cc4
+ID:P084394
+Name:poly(methylhydroquinone-alt-{3,3'-[terephthaloylbis(oxy-p-phenylenesulphanediyl)]dibenzoic acid})
+Polymer Smiles:*Oc1ccc(OC(=O)c2cccc(Sc3ccc(OC(=O)c4ccc(cc4)C(=O)Oc4ccc(Sc5cccc(c5)C(*)=O)cc4)cc3)c2)cc1-c1ccccc1
+Monomer Smiles 1: Oc1ccc(O)c(C2=CC=CC=C2)c1
+Monomer Smiles 2: OC(=O)c1cccc(Sc2ccc(OC(=O)c3ccc(cc3)C(=O)Oc3ccc(Sc4cccc(c4)C(O)=O)cc3)cc2)c1
+ID:P090040
+Name:poly[(4,4'-methylenediphenol)-alt-(cyclohexane-1,4-dicarbonyl dichloride)]
+Polymer Smiles:*OC(=O)c1cccc(c1)C(=O)Oc1ccc(Cc2ccc(*)cc2)cc1
+Monomer Smiles 1: Oc1ccc(Cc2ccc(O)cc2)cc1
+Monomer Smiles 2: ClC(C1=CC(C(Cl)=O)=CC=C1)=O
+ID:P090129
+Name:poly{(butane-1,4-diol)-alt-[3-(2-methoxy-5-methylphenyl)pent-2-enedioic acid]}
+Polymer Smiles:CCOc1ccc(cc1)C(CC(*)=O)=CC(=O)OCCCCO*
+Monomer Smiles 1: OCCCCO
+Monomer Smiles 2: OC(C/C(c1ccc(OCC)cc1)=C/C(O)=O)=O
+ID:P090129-2
+Name:poly{(butane-1,4-diol)-alt-[dimethyl 3-(2-methoxy-5-methylphenyl)pent-2-enedioate]}
+Polymer Smiles:CCOc1ccc(cc1)C(CC(*)=O)=CC(=O)OCCCCO*
+Monomer Smiles 1: OCCCCO
+Monomer Smiles 2: COC(C/C(c1ccc(OCC)cc1)=C/C(OC)=O)=O
+ID:P090129-3
+Name:poly{(butane-1,4-diol)-alt-[3-(2-methoxy-5-methylphenyl)pent-2-enedioyl dichloride]}
+Polymer Smiles:CCOc1ccc(cc1)C(CC(*)=O)=CC(=O)OCCCCO*
+Monomer Smiles 1: OCCCCO
+Monomer Smiles 2: ClC(C/C(c1ccc(OCC)cc1)=C/C(Cl)=O)=O
+ID:P090130
+Name:poly{(propane-1,2,3-triol)-alt-[3-(2-methoxy-5-methylphenyl)pent-2-enedioic acid]}
+Polymer Smiles:CCOc1ccc(cc1)C(CC(*)=O)=CC(=O)OCC(O)CO*
+Monomer Smiles 1: OCC(O)CO
+Monomer Smiles 2: OC(C/C(c1ccc(OCC)cc1)=C/C(O)=O)=O
+ID:P090130-2
+Name:poly{(propane-1,2,3-triol)-alt-[dimethyl 3-(2-methoxy-5-methylphenyl)pent-2-enedioate]}
+Polymer Smiles:CCOc1ccc(cc1)C(CC(*)=O)=CC(=O)OCC(O)CO*
+Monomer Smiles 1: OCC(O)CO
+Monomer Smiles 2: O=C(OC)C/C(c1ccc(OCC)cc1)=C/C(OC)=O
+ID:P090130-3
+Name:poly{(propane-1,2,3-triol)-alt-[3-(2-methoxy-5-methylphenyl)pent-2-enedioyl dichloride]}
+Polymer Smiles:CCOc1ccc(cc1)C(CC(*)=O)=CC(=O)OCC(O)CO*
+Monomer Smiles 1: OCC(O)CO
+Monomer Smiles 2: ClC(C/C(c1ccc(OCC)cc1)=C/C(Cl)=O)=O
+ID:P090131
+Name:poly{(hexane-1,6-diol)-alt-[3-(2-methoxy-5-methylphenyl)pent-2-enedioic acid]}
+Polymer Smiles:CCOc1ccc(cc1)C(CC(=O)OCCCCCC*)=CC(=O)O*
+Monomer Smiles 1: OCCCCCCO
+Monomer Smiles 2: OC(C/C(c1ccc(OCC)cc1)=C/C(O)=O)=O
+ID:P090131-2
+Name:poly{(hexane-1,6-diol)-alt-[dimethyl 3-(2-methoxy-5-methylphenyl)pent-2-enedioate]}
+Polymer Smiles:CCOc1ccc(cc1)C(CC(=O)OCCCCCC*)=CC(=O)O*
+Monomer Smiles 1: OCCCCCCO
+Monomer Smiles 2: O=C(OC)C/C(c1ccc(OCC)cc1)=C/C(OC)=O
+ID:P090131-3
+Name:poly{(hexane-1,6-diol)-alt-[3-(2-methoxy-5-methylphenyl)pent-2-enedioyl dichloride]}
+Polymer Smiles:CCOc1ccc(cc1)C(CC(=O)OCCCCCC*)=CC(=O)O*
+Monomer Smiles 1: OCCCCCCO
+Monomer Smiles 2: ClC(C/C(c1ccc(OCC)cc1)=C/C(Cl)=O)=O
+ID:P090373
+Name:poly({4,4'-[octane-1,10-diylbis(oxycarbonyl)]dianiline}-alt-(dodecanedioyl dichloride))
+Polymer Smiles:*OCCCCCCCCOC(=O)c1ccc(cc1)C(=O)NCCCCCNC(=O)c1ccc(cc1)C(*)=O
+Monomer Smiles 1: Nc1ccc(cc1)C(=O)OCCCCCCCCOC(=O)c1ccc(N)cc1
+Monomer Smiles 2: ClC(CCCCCC(Cl)=O)=O
+ID:P090540
+Name:poly[(dimethyl biphenyl-4,4'-dicarboxyate)-alt-(pentane-1,5-diol)]
+Polymer Smiles:*OCCCCCOC(=O)c1ccc2cc(ccc2c1)C(*)=O
+Monomer Smiles 1: O=C(c(cc1)cc2c1cc(C(OC)=O)cc2)OC
+Monomer Smiles 2: OCCCCCO
+ID:P090582
+Name:poly[(5-tridecylresorcinol)-alt-(terephthaloyl dichloride)]
+Polymer Smiles:CCCCCCCCCCCCCc1cc(O*)cc(OC(=O)c2cccc(c2)C(*)=O)c1
+Monomer Smiles 1: CCCCCCCCCCCCCc1cc(O)cc(O)c1
+Monomer Smiles 2: ClC(c1cc(C(Cl)=O)ccc1)=O
+ID:P090583
+Name:poly[(5-undecylresorcinol)-alt-(terephthaloyl dichloride)]
+Polymer Smiles:CCCCCCCCCCCc1cc(O*)cc(OC(=O)c2cccc(c2)C(*)=O)c1
+Monomer Smiles 1: CCCCCCCCCCCc1cc(O)cc(O)c1
+Monomer Smiles 2: ClC(c1cc(C(Cl)=O)ccc1)=O
+ID:P099049
+Name:poly{[3,3-bis(hydroxyphenyl)-2-oxoindoline]-alt-(isophthaloyl dichloride)}
+Polymer Smiles:O=C(N1)C(C2=CC=C(OC(C3=CC=CC(C([*])=O)=C3)=O)C=C2)(C4=CC=C(O[*])C=C4)c5c1cccc5
+Monomer Smiles 1: O=C(N1)C(C2=CC=C(O)C=C2)(C3=CC=C(O)C=C3)c4c1cccc4
+Monomer Smiles 2: ClC(=O)c1cccc(c1)C(Cl)=O
+ID:P099050
+Name:poly{[3,3-bis(4-hydroxyphenyl)-4,6-dichloro-2-oxoindoline]-alt-(isophthaloyl dichloride)}
+Polymer Smiles:O=C(N1)C(C2=CC=C(OC(C3=CC=CC(C([*])=O)=C3)=O)C=C2)(C4=CC=C(O[*])C=C4)c5c1cc(Cl)cc5Cl
+Monomer Smiles 1: Oc1ccc(cc1)C1(C(=O)Nc2cc(Cl)cc(Cl)c12)c1ccc(O)cc1
+Monomer Smiles 2: ClC(=O)c1cccc(c1)C(Cl)=O
+ID:P100005
+Name:poly[(hexane-1,6-diamine)-alt-(heptanedioic acid)]
+Polymer Smiles:*CCCCCCNC(=O)CCCCC(=O)N*
+Monomer Smiles 1: NCCCCCCN
+Monomer Smiles 2: OC(CCCCC(O)=O)=O
+ID:P100029
+Name:poly[(dodecane-1,12-diamine)-alt-(octadecanedioic acid)]
+Polymer Smiles:*NCCCCCCCCCCCCCCNC(=O)CCCCCCCCCCCCCCCCC(*)=O
+Monomer Smiles 1: NCCCCCCCCCCCCCCN
+Monomer Smiles 2: OC(=O)CCCCCCCCCCCCCCCCC(O)=O
+ID:P100029-2
+Name:poly[(dodecane-1,12-diamine)-alt-(octadecanedioyl dichloride)]
+Polymer Smiles:*NCCCCCCCCCCCCCCNC(=O)CCCCCCCCCCCCCCCCC(*)=O
+Monomer Smiles 1: NCCCCCCCCCCCCCCN
+Monomer Smiles 2: ClC(=O)CCCCCCCCCCCCCCCCC(Cl)=O
+ID:P100056
+Name:poly{[9H-fluorene-9,9-dipropyl diisocyanate]-alt-(biphenyl-2,2'-dicarboxylic acid)}
+Polymer Smiles:*CCCC1(CCCNC(=O)c2ccccc2-c2ccccc2C(=O)N*)c2ccccc2-c2ccccc12
+Monomer Smiles 1: NCCCC1(c2c(c3c1cccc3)cccc2)CCCN
+Monomer Smiles 2: OC(=O)c1ccccc1-c1ccccc1C(O)=O
+ID:P100122
+Name:poly[(9H-fluorene-9,9-dipropyl diisocyanate)-alt-(9H-fluoren-9,9-dipropanoic acid)]
+Polymer Smiles:*CCCC1(CCCNC(=O)CCC2(CCC(=O)N*)c3ccccc3-c3ccccc23)c2ccccc2-c2ccccc12
+Monomer Smiles 1: NCCCC1(c2c(c3c1cccc3)cccc2)CCCN
+Monomer Smiles 2: OC(=O)CCC1(CCC(O)=O)c2ccccc2-c2ccccc12
+ID:P100185
+Name:poly(6-aminocaproic acid-alt-11-aminoundecanoic acid)
+Polymer Smiles:*CCCCCCCCCCC(=O)NCCCCCC(=O)N*
+Monomer Smiles 1: NCCCCCC(O)=O
+Monomer Smiles 2: NCCCCCCCCCCC(O)=O
+ID:P100235
+Name:poly[(dodecane-1,12-diamine)-alt-(dodecanedioic acid)]
+Polymer Smiles:*CCCCCCCCCCCCNC(=O)CCCCCCCCCCCCCCCCCCCCC(=O)N*
+Monomer Smiles 1: NCCCCCCCCCCCCN
+Monomer Smiles 2: OC(CCCCCCCCCCCCCCCCCCCCC(O)=O)=O
+ID:P100235-2
+Name:poly[(dodecane-1,12-diamine)-alt-(dodecanedioyl dichloride)]
+Polymer Smiles:*CCCCCCCCCCCCNC(=O)CCCCCCCCCCCCCCCCCCCCC(=O)N*
+Monomer Smiles 1: NCCCCCCCCCCCCN
+Monomer Smiles 2: OC(CCCCCCCCCCCCCCCCCCCCC(O)=O)=O
+ID:P100298
+Name:poly[(hexane-1,6-diamine)-alt-(benzene-1,4-diacetic acid)]
+Polymer Smiles:*NCCCCCCCNC(=O)Cc1ccc(CC(*)=O)cc1
+Monomer Smiles 1: OC(CCCCCCCCCCCCCCCCCCCCC(O)=O)=O
+Monomer Smiles 2: OC(=O)Cc1ccc(CC(O)=O)cc1
+ID:P100339
+Name:poly[(trans-cyclopropane-1,2-diamine)-alt-(cyclopropane-1,2-dicarbonyl dichloride)]
+Polymer Smiles:*CC1CC1CNC(=O)C1CC1C(=O)N*
+Monomer Smiles 1: OC(CCCCCCCCCCCCCCCCCCCCC(O)=O)=O
+Monomer Smiles 2: ClC(=O)C1CC1C(Cl)=O
+ID:P100376
+Name:poly{[benzene-1,4-bis(ethylamine)]-alt-(decanedioic acid)}
+Polymer Smiles:*NCCc1ccc(CCNC(=O)CCCCCCCCCCC(*)=O)cc1
+Monomer Smiles 1: NCCc1ccc(CCN)cc1
+Monomer Smiles 2: OC(CCCCCCCCCCC(O)=O)=O
+ID:P100385
+Name:poly{[benzene-1,4-bis(methylamine)]-alt-(terephthalic acid)}
+Polymer Smiles:*NCc1cccc(CNC(=O)c2ccc(cc2)C(*)=O)c1
+Monomer Smiles 1: NCc1cc(CN)ccc1
+Monomer Smiles 2: OC(=O)c1ccc(cc1)C(O)=O
+ID:P100401
+Name:poly[(N,N-dimethylhexane-1,6-diamine)-alt-(octadecanedioic acid)]
+Polymer Smiles:CN(*)CCCCCCN(C)C(=O)CCCCCCCCCCCCCCCCC(*)=O
+Monomer Smiles 1: CNCCCCCCNC
+Monomer Smiles 2: OC(=O)CCCCCCCCCCCCCCCCC(O)=O
+ID:P100512
+Name:poly{[benzene-1,4-bis(methylamine)]-alt-(5-oxadecanedioic acid)}
+Polymer Smiles:[*]CCCC(NCc1ccc(CNC(CCCCO[*])=O)cc1)=O
+Monomer Smiles 1: NCc1ccc(CN)cc1
+Monomer Smiles 2: OC(=O)CCCCOCCCC(O)=O
+ID:P100524
+Name:poly[(hexane-1,6-diamine)-alt-(6-oxapentadecanedioic acid)]
+Polymer Smiles:*CCCCC(=O)NCCCCCCNC(=O)CCCO*
+Monomer Smiles 1: NCCCCCCN
+Monomer Smiles 2: OC(CCCCOCCCC(O)=O)=O
+ID:P100625
+Name:poly{(octane-1,8-diamine)-alt-[4,4'-(3-oxo-1,3-dihydroisobenzofuran-1,1-diyl)dibenzoyl chloride]}
+Polymer Smiles:*c1ccc(NC(=O)CCCCCCCCC(=O)Nc2ccc(cc2)C2(*)OC(=O)c3ccccc23)cc1
+Monomer Smiles 1: O=C(O)CCCCCCCCC(O)=O
+Monomer Smiles 2: Nc1ccc(C2(c3ccc(N)cc3)OC(c4c2cccc4)=O)cc1
+ID:P100635
+Name:poly{[3,3'-bis(4-aminophenyl)phthalimide]-alt-[3,3'-bis(4-chlorocarbonylphenyl)phthalide]}
+Polymer Smiles:*c1ccc(NC(=O)c2ccc(cc2)C2(OC(=O)c3ccccc23)c2ccc(cc2)C(=O)Nc2ccc(cc2)C2(*)NC(=O)c3ccccc23)cc1
+Monomer Smiles 1: Nc1ccc(C2(c3ccc(N)cc3)NC(c4c2cccc4)=O)cc1
+Monomer Smiles 2: ClC(=O)c1ccc(cc1)C1(OC(=O)c2ccccc12)c1ccc(cc1)C(Cl)=O
+ID:P100812-1
+Name:poly{[3,3'-(3-oxopent-1,4-diene-1,4-diyl)dianiline]-alt-(adipic acid)}
+Polymer Smiles:*NC(=O)CCCCC(=O)Nc1cccc(C=CC(=O)C=Cc2cccc(*)c2)c1
+Monomer Smiles 1: Nc1cc(/C=C/C(/C=C/C2=CC=CC(N)=C2)=O)ccc1
+Monomer Smiles 2: OC(=O)CCCCC(O)=O
+ID:P100812-2
+Name:poly{[3,3'-(3-oxopent-1,4-diene-1,4-diyl)dianiline]-alt-(adipoyl dichloride)}
+Polymer Smiles:*NC(=O)CCCCC(=O)Nc1cccc(C=CC(=O)C=Cc2cccc(*)c2)c1
+Monomer Smiles 1: Nc1cc(/C=C/C(/C=C/C2=CC=CC(N)=C2)=O)ccc1
+Monomer Smiles 2: ClC(=O)CCCCC(Cl)=O
+ID:P104342
+Name:poly[(5,5''''-diphenyl-1,1':3',1'':4'',1''':3''',1''''-quinquephenyl-6,4''''-diamine)-alt-(terephthalic acid)]
+Polymer Smiles:*NC(=O)c1ccc(cc1)C(=O)Nc1c(cc(cc1-c1ccccc1)-c1ccc(cc1)-c1cc(c(*)c(c1)-c1ccccc1)-c1ccccc1)-c1ccccc1
+Monomer Smiles 1: Nc1c(c2ccccc2)cc(c3ccc(c4cc(c5ccccc5)c(N)c(C6=CC=CC=C6)c4)cc3)cc1C7=CC=CC=C7
+Monomer Smiles 2: OC(=O)c1ccc(cc1)C(O)=O
+ID:P104465
+Name:poly[(N,N'-dimethylethylenediamine)-alt-(terephthalic acid)]
+Polymer Smiles:CN(*)CCN(C)C(=O)CCCCCCCCC(*)=O
+Monomer Smiles 1: CNCCNC
+Monomer Smiles 2: OC(CCCCCCCCC(O)=O)=O
+ID:P104465-2
+Name:poly[(N,N'-dimethylethylenediamine)-alt-(terephthaloyl dichloride)]
+Polymer Smiles:CN(*)CCN(C)C(=O)CCCCCCCCC(*)=O
+Monomer Smiles 1: CNCCNC
+Monomer Smiles 2: OC(CCCCCCCCC(O)=O)=O
+ID:P110140
+Name:poly[(butane-1,4-diol)-alt-(1,4-phenylene diisocyanate)]
+Polymer Smiles:*OCCCCCCOC(=O)Nc1ccc(NC(*)=O)cc1
+Monomer Smiles 1: OCCCCCCO
+Monomer Smiles 2: O=C=Nc1ccc(cc1)N=C=O
+ID:P110183
+Name:poly{(2,5-dimethylpiperazine)-alt-[(1-methylethane-1,1-diyl)bis(4,1-phenylene) bis(chloroformate)]}
+Polymer Smiles:CC(C)(c1ccc(OC(*)=O)cc1)c1ccc(OC(=O)N2CCN(*)CC2)cc1
+Monomer Smiles 1: C1CNCCN1
+Monomer Smiles 2: CC(C)(c1ccc(OC(Cl)=O)cc1)c1ccc(OC(Cl)=O)cc1
+ID:P110193
+Name:poly({N-[4-(phenyldiazenyl)phenyl]-2-[bis(2-hydroxyethyl)amino]propanamide}-alt-(1,6-diisocyanatohexane))
+Polymer Smiles:*OCCN(CCOC(=O)NCCCCCCNC(*)=O)CCC(=O)Nc1ccc(cc1)N=Nc1ccccc1
+Monomer Smiles 1: O=C(CN(CCO)CCO)Nc1ccc(/N=N/c2ccccc2)cc1
+Monomer Smiles 2: O=C=NCCCCCCN=C=O
+ID:P110238
+Name:poly{[4,4'-methylenebis(phenyl isocyanate)]-alt-(tetrahydrofuran-3,4-dimethanol)}
+Polymer Smiles:*COC(=O)Nc1ccc(Cc2ccc(NC(=O)OCc3cocc3*)cc2)cc1
+Monomer Smiles 1: O=C=Nc1ccc(Cc2ccc(cc2)N=C=O)cc1
+Monomer Smiles 2: OCC1=COC=C1CO
+ID:P130250
+Name:polyamideimide:((4,4'-methylenedianiline)-alt-{4-[5-(chloroformyl)-1,3-dioxoisoindoline-2-yl]benzoyl chloride})
+Polymer Smiles:*N1C(=O)c2ccc(cc2C1=O)C(=O)NCCCCCCNC(=O)c1ccc(*)cc1
+Monomer Smiles 1: NCCCCCCN
+Monomer Smiles 2: ClC(=O)c1ccc(cc1)N1C(=O)c2ccc(cc2C1=O)C(Cl)=O
+ID:P130253
+Name:polyimide:([4,4'-methylenebis(cyclohexylamine)]-alt-{4-[5-(chloroformyl)-1,3-dioxoisoindoline-2-yl]benzoyl chloride})
+Polymer Smiles:[*]c1ccc(C2(c3ccc(N4C(c5c(C4=O)cc(C(N(C6=O)[*])=O)c6c5)=O)cc3)OC(c7c2cccc7)=O)cc1
+Monomer Smiles 1: O=C(OC1=O)C2=C1C=C(C(OC3=O)=O)C3=C2
+Monomer Smiles 2: O=C(O1)C2=C(C=CC=C2)C1(C3=CC=C(N)C=C3)C4=CC=C(N)C=C4
+ID:P130302
+Name:poly{[2,2'-(2,4-dioxo-1,2,3,4-tetrahydropyrimidine-1,3-diyl)diethanol]-alt-(dimethyl terephthalate)}
+Polymer Smiles:*CCOC(=O)c1ccc(cc1)C(=O)OCCN1CCC(=O)N(*)C1=O
+Monomer Smiles 1: OCCN1CCC(N(C1=O)CCO)=O
+Monomer Smiles 2: COC(=O)c1ccc(cc1)C(=O)OC
+ID:P130335
+Name:poly[[3,3'-(3-oxopent-1,4-diene-1,4-diyl)dianiline]-alt-(3-{3-[5-(chloroformyl)-1,3-dioxoisoindoline-2-yl]phenyl}prop-2-enoyl chloride)]
+Polymer Smiles:*N1C(=O)c2ccc(cc2C1=O)C(=O)Nc1cccc(C=CC(=O)C=Cc2cccc(NC(=O)c3ccc(*)cc3)c2)c1
+Monomer Smiles 1: Nc1cc(/C=C/C(/C=C/c2cc(N)ccc2)=O)ccc1
+Monomer Smiles 2: ClC(c1cc(N2C(c3c(C2=O)cc(C(Cl)=O)cc3)=O)ccc1)=O
+ID:P130365
+Name:poly((2,5-dimethyl-m-phenylenediamine)-alt-{5,5'-[2,2,2-trifluoro-1-(trifluoromethyl)ethane-1,1-diyl]bis(isobenzofuran-1,3-dione)})
+Polymer Smiles:Cc1cc(N2C(=O)c3ccc(cc3C2=O)C(c2ccc3C(=O)N(*)C(=O)c3c2)(C(F)(F)F)C(F)(F)F)c(C)cc1*
+Monomer Smiles 1: Cc1cc(N)c(C)cc1N
+Monomer Smiles 2: FC(F)(F)C(c1ccc2C(=O)OC(=O)c2c1)(c1ccc2C(=O)OC(=O)c2c1)C(F)(F)F
+ID:P130371
+Name:poly{[4,4'-(naphthalene-2,3-diyldioxy)dianiline]-alt-[5,5'-oxybis(isobenzofuran-1,3-dione)]}
+Polymer Smiles:*N1C(=O)c2ccc(cc2C1=O)-c1ccc2C(=O)N(C(=O)c2c1)c1ccc(Oc2cc3ccccc3cc2Oc2ccc(*)cc2)cc1
+Monomer Smiles 1: Nc1ccc(Oc2cc3ccccc3cc2Oc2ccc(N)cc2)cc1
+Monomer Smiles 2: O=C1OC(c2c1ccc(c3cc4c(C(OC4=O)=O)cc3)c2)=O
+ID:P134343
+Name:poly[(5,5''''-diphenyl-1,1':3',1'':4'',1''':3''',1''''-quinquephenyl-6,4''''-diamine)-alt-(pyromellitic anhydride)]
+Polymer Smiles:*c1c(cc(cc1-c1ccccc1)-c1ccc(cc1)-c1cc(-c2ccccc2)c(c(c1)-c1ccccc1)-n1c(=O)c2cc3c(cc2c1=O)c(=O)n(*)c3=O)-c1ccccc1
+Monomer Smiles 1: Nc1c(c2cc(c3ccc(c4cc(c5cc(c6ccccc6)cc(N)c5)ccc4)cc3)ccc2)cccc1c7ccccc7
+Monomer Smiles 2: O=c1oc(=O)c2cc3c(cc12)c(=O)oc3=O
+ID:P150111
+Name:poly{[3,3',5,5'-tetrabromo-4,4'-(1-methylethane-1,1-diyl)diphenol]-alt-phosgene}
+Polymer Smiles:CC(C)(c1c(Cl)cc(*)cc1Cl)c1c(Cl)cc(OC(=O)O*)cc1Cl
+Monomer Smiles 1: CC(c1c(Cl)cc(O)cc1Br)(c2c(Cl)cc(O)cc2Cl)C
+Monomer Smiles 2: ClC(Cl)=O
+ID:P150111-2
+Name:poly{[3,3',5,5'-tetrabromo-4,4'-(1-methylethane-1,1-diyl)diphenol]-alt-(dimethyl carbonate)}
+Polymer Smiles:CC(C)(c1c(Cl)cc(*)cc1Cl)c1c(Cl)cc(OC(=O)O*)cc1Cl
+Monomer Smiles 1: CC(c1c(Cl)cc(O)cc1Br)(c2c(Cl)cc(O)cc2Cl)C
+Monomer Smiles 2: COC(=O)OC
+ID:P150111-3
+Name:poly{[3,3',5,5'-tetrabromo-4,4'-(1-methylethane-1,1-diyl)diphenol]-alt-(diphenyl carbonate)}
+Polymer Smiles:CC(C)(c1c(Cl)cc(*)cc1Cl)c1c(Cl)cc(OC(=O)O*)cc1Cl
+Monomer Smiles 1: CC(c1c(Cl)cc(O)cc1Br)(c2c(Cl)cc(O)cc2Cl)C
+Monomer Smiles 2: O=C(Oc1ccccc1)Oc1ccccc1
+ID:P164417
+Name:poly[(biphenyl-3,3',4,4'-tetramine)-alt-(naphthalene-2,6-dicarboxylic acid)]
+Polymer Smiles:[*]C1=Nc(cc(c(cc2)cc3c2=NC(c(cc4)cc5c4cc([*])cc5)=N3)cc6)c6=N1
+Monomer Smiles 1: Nc1ccc(cc1N)-c1ccc(N)c(N)c1
+Monomer Smiles 2: OC(=O)c1ccc2cc(ccc2c1)C(O)=O
+ID:P164417
+Name:poly[(biphenyl-3,3',4,4'-tetramine)-alt-(diphenyl 2,6-naphthalenedicarboxylate)]
+Polymer Smiles:[*]C1=Nc(cc(c(cc2)cc3c2=NC(c(cc4)cc5c4cc([*])cc5)=N3)cc6)c6=N1
+Monomer Smiles 1: Nc1ccc(cc1N)-c1ccc(N)c(N)c1
+Monomer Smiles 2: O=C(Oc1ccccc1)c1ccc2cc(ccc2c1)C(=O)Oc1ccccc1
+ID:P210047
+Name:poly({2,2',4,4',5,5'-hexaphenyl-3,3'-[tetradecane-1,14-diylbis(4,1-phenylene)]bis(cyclopenta-2,4-dienone)}-alt-(1,4-diethynylbenzene))
+Polymer Smiles:*CCCCCCCCCCc1ccc(cc1)-c1c(cc(-c2cccc(c2)-c2cc(-c3ccccc3)c(-c3ccc(*)cc3)c(-c3ccccc3)c2-c2ccccc2)c(-c2ccccc2)c1-c1ccccc1)-c1ccccc1
+Monomer Smiles 1: O=C1C(=C(C(=C1c1ccccc1)c1ccc(CCCCCCCCCCCCCCc2ccc(cc2)C2=C(C(=O)C(=C2c2ccccc2)c2ccccc2)c2ccccc2)cc1)c1ccccc1)c1ccccc1
+Monomer Smiles 2: C#Cc1cccc(c1)C#C
+ID:P370346
+Name:poly({4,4'-[1-phenylethane-1,1-diylbis(4,1-phenyleneoxy)]dianiline}-alt-[4,4'-(naphthalene-2,7-diyldioxy)dibenzoic acid])
+Polymer Smiles:O=C(c1ccc(Oc(cc2)cc3c2ccc(O[*])c3)cc1)Nc4ccc(Oc5ccc(C(C6=CC=C(C=C6)Oc7ccc(NC(c8ccc([*])cc8)=O)cc7)(C)C9=CC=CC=C9)cc5)cc4
+Monomer Smiles 1: CC(c1ccccc1)(c1ccc(Oc2ccc(N)cc2)cc1)c1ccc(Oc2ccc(N)cc2)cc1
+Monomer Smiles 2: OC(=O)c1ccc(Oc2ccc3ccc(Oc4ccc(cc4)C(O)=O)cc3c2)cc1
+ID:P370348
+Name:poly({4,4'-[1,4-phenylenebis(1-methylethane-1,1-diyl-4,1-phenyleneoxy)]dianiline}-alt-[4,4'-(naphthalene-2,7-diyldioxy)dibenzoic acid])
+Polymer Smiles:CC(C1=CC=C(C=C1)Oc2ccc(NC(c3ccc([*])cc3)=O)cc2)(C)C4=CC=C(C(c5ccc(Oc6ccc(NC(c7ccc(Oc(cc8)cc9c8ccc(O[*])c9)cc7)=O)cc6)cc5)(C)C)C=C4
+Monomer Smiles 1: CC(C)(c1ccc(Oc2ccc(N)cc2)cc1)c1ccc(cc1)C(C)(C)c1ccc(Oc2ccc(N)cc2)cc1
+Monomer Smiles 2: OC(=O)c1ccc(Oc2ccc3ccc(Oc4ccc(cc4)C(O)=O)cc3c2)cc1
+ID:P370352
+Name:poly{[4,4'-(1-phenylethane-1,1-diyl)diphenol]-alt-decafluorobenzophenone}
+Polymer Smiles:Fc1c(F)c(C(c2c(F)c(F)c(O[*])c(F)c2F)=O)c(F)c(F)c1Oc3ccc(C(C4=CC=C(C=C4)[*])(C)C5=CC=CC=C5)cc3
+Monomer Smiles 1: CC(c1ccccc1)(c1ccc(O)cc1)c1ccc(O)cc1
+Monomer Smiles 2: Fc1c(F)c(F)c(C(=O)c2c(F)c(F)c(F)c(F)c2F)c(F)c1F
+ID:P370355
+Name:poly({2,5-bis[4-(4-aminophenoxy)phenyl]-1,3,4-oxadiazole}-alt-(2-phenoxyterephthaloyl dichloride))
+Polymer Smiles:O=C(c1c(Oc2ccccc2)cc(C(Nc3ccc(Oc4ccc([*])cc4)cc3)=O)cc1)Nc5ccc(Oc6ccc(C7=NN=C([*])O7)cc6)cc5
+Monomer Smiles 1: Nc1ccc(Oc2ccc(cc2)-c2nnc(o2)-c2ccc(Oc3ccc(N)cc3)cc2)cc1
+Monomer Smiles 2: ClC(=O)c1ccc(C(Cl)=O)c(Oc2ccccc2)c1
+ID:P370356
+Name:poly({2,5-bis[4-(3-aminophenoxy)phenyl]-1,3,4-oxadiazole}-alt-(2-phenoxyterephthaloyl dichloride))
+Polymer Smiles:[*]C1=NN=C(c2ccc(Oc3cc(NC(c4c(Oc5ccccc5)cc(C(Nc6cc(Oc7ccc([*])cc7)ccc6)=O)cc4)=O)ccc3)cc2)O1
+Monomer Smiles 1: Nc1cccc(Oc2ccc(cc2)-c2nnc(o2)-c2ccc(Oc3cccc(N)c3)cc2)c1
+Monomer Smiles 2: ClC(=O)c1ccc(C(Cl)=O)c(Oc2ccccc2)c1
+ID:P370357
+Name:poly[(4-aminobenzohydrazide)-alt-(2-phenoxyterephthaloyl dichloride)]
+Polymer Smiles:[*]C1=NN=C(c2c(Oc3ccccc3)cc(C(Nc4ccc([*])cc4)=O)cc2)O1
+Monomer Smiles 1: NNC(=O)c1ccc(N)cc1
+Monomer Smiles 2: ClC(=O)c1ccc(C(Cl)=O)c(Oc2ccccc2)c1
+ID:P370372
+Name:poly[phenolphthalein-alt-(4,4'-dichlorobenzophenone)]
+Polymer Smiles:[*]C1=CC=C(C=C1)Oc2ccc(C(c3ccc(Oc4ccc(C5(OC(c6c5cccc6)=O)[*])cc4)cc3)=O)cc2
+Monomer Smiles 1: Oc1ccc(cc1)C1(OC(=O)c2ccccc12)c1ccc(O)cc1
+Monomer Smiles 2: Clc1ccc(cc1)C(=O)c1ccc(Cl)cc1
+ID:P370376
+Name:poly[(4,4'-dinitorobenzophenone)-alt-(phenolphthalin)]
+Polymer Smiles:[Na]OC(=O)c1ccccc1C(c1ccc(O*)cc1)c1ccc(Oc2ccc(cc2)C(=O)c2ccc(*)cc2)cc1
+Monomer Smiles 1: O=C(c1ccc(cc1)N(=O)=O)c1ccc(cc1)N(=O)=O
+Monomer Smiles 2: O=C(c1c(C(c2ccc(O)cc2)c3ccc(O)cc3)cccc1)O[Na]
+ID:P370421
+Name:poly({4,4'-[naphthalene-1,7-diyldioxy]dianiline}-alt-{4,4'-[1-phenylethane-1,1-diylbis(4,1-phenyleneoxy)]dibenzoic acid})
+Polymer Smiles:CC(C)(c1ccc(Oc2ccc(cc2)C(=O)Nc2ccc(*)cc2)cc1)c1cccc(c1)C(C)(C)c1ccc(Oc2ccc(cc2)C(=O)Nc2ccc(Oc3ccc4cccc(O*)c4c3)cc2)cc1
+Monomer Smiles 1: Nc1ccc(Oc2ccc3cccc(Oc4ccc(N)cc4)c3c2)cc1
+Monomer Smiles 2: OC(c1ccc(Oc2ccc(C(C)(C)C3=CC=CC(C(C)(C)C4=CC=C(OC5=CC=C(C(O)=O)C=C5)C=C4)=C3)cc2)cc1)=O
+ID:P370422
+Name:poly[(biphenyl-2,4'-diamine)-alt-(terephthaloyl dichloride)]
+Polymer Smiles:*Oc1ccc(cc1)C(=O)Nc1ccccc1-c1ccc(NC(=O)c2ccc(*)cc2)cc1
+Monomer Smiles 1: Nc1ccc(cc1)-c1ccccc1N
+Monomer Smiles 2: ClC(c1ccc(OC2=CC=C(C(Cl)=O)C=C2)cc1)=O
+ID:P370423
+Name:poly{[N,N'-bis(trimethylsilyl)-5-bromobiphenyl-2,4'-diamine]-alt-(terephthaloyl dichloride)}
+Polymer Smiles:Brc1ccc(NC(=O)c2ccc(O*)cc2)c(c1)-c1ccc(NC(=O)c2ccc(*)cc2)cc1
+Monomer Smiles 1: C[Si](C)(C)Nc1ccc(cc1)-c1cc(Br)ccc1N[Si](C)(C)C
+Monomer Smiles 2: ClC(c1ccc(OC2=CC=C(C(Cl)=O)C=C2)cc1)=O
+ID:P370445
+Name:poly{[4,4'-oxybis(benzoyl chloride)]-alt-[2,2-bis(3-amino-4-hydroxyphenyl)-2-phenyl-1,1,1-trifluoroethane]}
+Polymer Smiles:[*]C(c1ccccc1)(c(cc2)cc3c2oc(c4ccc(Oc5ccc(c(n6)oc7c6cc([*])cc7)cc5)cc4)n3)C(F)(F)F
+Monomer Smiles 1: ClC(=O)c1ccc(Oc2ccc(cc2)C(Cl)=O)cc1
+Monomer Smiles 2: Nc1cc(ccc1O)C(c1ccccc1)(c1ccc(O)c(N)c1)C(F)(F)F
+ID:P370447
+Name:poly{[4,4'-(1-phenyl-2,2,2-trifluoroethane-1,1-diyl)bis(benzoyl chloride)]-alt-[2,2-bis(3-amino-4-hydroxyphenyl)-2-phenyl-1,1,1-trifluoroethane]}
+Polymer Smiles:[*]C(c1ccccc1)(c(cc2)cc3c2oc(c4ccc(C(c5ccccc5)(c6ccc(c(n7)oc8c7cc([*])cc8)cc6)C(F)(F)F)cc4)n3)C(F)(F)F
+Monomer Smiles 1: FC(F)(F)C(c1ccccc1)(c1ccc(cc1)C(Cl)=O)c1ccc(cc1)C(Cl)=O
+Monomer Smiles 2: Nc1cc(ccc1O)C(c1ccccc1)(c1ccc(O)c(N)c1)C(F)(F)F
+ID:P370451
+Name:poly{(terephthaloyl dichloride)-alt-[2,2-bis(3-amino-4-hydroxyphenyl)-2-phenyl-1,1,1-trifluoroethane]}
+Polymer Smiles:[*]C(c1ccccc1)(c(cc2)cc3c2oc(c4ccc(c(n5)oc6c5cc([*])cc6)cc4)n3)C(F)(F)F
+Monomer Smiles 1: ClC(=O)c1ccc(cc1)C(Cl)=O
+Monomer Smiles 2: Nc1cc(ccc1O)C(c1ccccc1)(c1ccc(O)c(N)c1)C(F)(F)F
+ID:P370453
+Name:poly{[4,4'-(1,1,1,3,3,3-hexafluoropropane-2,2-diyl)bis(benzoyl chloride)]-alt-[2,2-bis(3-amino-4-hydroxyphenyl)-2-phenyl-1,1,1-trifluoroethane]}
+Polymer Smiles:[*]c1ccc2oc(c3ccc(C(c4ccc(c(n5)oc6c5cc(C([*])(C(F)(F)F)C(F)(F)F)cc6)cc4)(C(F)(F)F)C(F)(F)F)cc3)nc2c1
+Monomer Smiles 1: FC(F)(F)C(c1ccc(cc1)C(Cl)=O)(c1ccc(cc1)C(Cl)=O)C(F)(F)F
+Monomer Smiles 2: Nc1c(O)ccc(C(c2cc(N)c(O)cc2)(C(F)(F)F)C(F)(F)F)c1
+ID:P370481
+Name:poly({bis[4-(chlorocarbonyl)phenyl]diphenylsilane}-alt-(pyridine-2,6-dicarbohydrazide))
+Polymer Smiles:[*]c1oc(c2nc(c3oc(c4ccc([Si](C5=CC=CC=C5)(C6=CC=C([*])C=C6)C7=CC=CC=C7)cc4)nn3)ccc2)nn1
+Monomer Smiles 1: ClC(=O)c1ccc(cc1)[Si](c1ccccc1)(c1ccccc1)c1ccc(cc1)C(Cl)=O
+Monomer Smiles 2: NNC(=O)c1cccc(n1)C(=O)NN
+ID:P370494
+Name:poly{[4,4'-(1-methylethane-1,1-diyl)diphenol]-alt-[1,2-bis(4-fluorobenzoyl)-3,4,5,6-tetrakis(4-fluorophenyl)benzene]}
+Polymer Smiles:CC(C)(c1ccc(Oc2ccc(*)cc2)cc1)c1ccc(Oc2ccc(cc2)-c2nnc(*)c3c(-c4ccc(F)cc4)c(-c4ccc(F)cc4)c(-c4ccc(F)cc4)c(-c4ccc(F)cc4)c23)cc1
+Monomer Smiles 1: CC(C)(c1ccc(O)cc1)c1ccc(O)cc1
+Monomer Smiles 2: Fc1ccc(c2c(c3ccc(F)cc3)c(c4ccc(F)cc4)c(c5ccc(F)cc5)c6=C(C7=CC=C(F)C=C7)N=NC(C8=CC=C(F)C=C8)=c62)cc1
+ID:P370536
+Name:poly((4,4'-sulfanediyldianiline)-alt-{4,4'-[sulfonylbis(4,1-phenylenecarbonyl4,1-phenyleneoxy)]dibenzoic acid})
+Polymer Smiles:[*]Oc1ccc(C(c2ccc(S(=O)(c3ccc(C(c4ccc(Oc5ccc(C(Nc6ccc(Sc7ccc(NC(c8ccc([*])cc8)=O)cc7)cc6)=O)cc5)cc4)=O)cc3)=O)cc2)=O)cc1
+Monomer Smiles 1: Nc1ccc(Sc2ccc(N)cc2)cc1
+Monomer Smiles 2: OC(=O)c1ccc(Oc2ccc(cc2)C(=O)c2ccc(cc2)S(=O)(=O)c2ccc(cc2)C(=O)c2ccc(Oc3ccc(cc3)C(O)=O)cc2)cc1
+ID:P370557
+Name:poly{[1,1,2-trifluoro-2-(1,1,2,2,2-pentafluoroethoxy)ethene]-alt-[trifluoro(nitroso)methane]}
+Polymer Smiles:FC(F)(N(C(F)(C([*])(OC(F)(C(F)(F)F)F)F)F)O[*])F
+Monomer Smiles 1: FC(F)=C(F)OC(F)(F)C(F)(F)F
+Monomer Smiles 2: FC(F)(F)N=O
+ID:P370593
+Name:poly{[4,4'-oxybis(o-phenylenediamine)]-alt-[4,4'-(hexafluoroisopropylidene)bis(phthalic anhydride)]}
+Polymer Smiles:O=C(Nc1c(N)cc(O[*])cc1)c2c(C(O)=O)cc(C(c3cc(C(Nc4c(N)ccc([*])c4)=O)c(C(O)=O)cc3)(C(F)(F)F)C(F)(F)F)cc2
+Monomer Smiles 1: Nc1ccc(Oc2ccc(N)c(N)c2)cc1N
+Monomer Smiles 2: FC(F)(F)C(c1ccc2C(=O)OC(=O)c2c1)(c1ccc2C(=O)OC(=O)c2c1)C(F)(F)F
+ID:P370653
+Name:poly{[2,2-dimethyl-4,5-bis(hydoxymethyl)-1,3-dioxolane]-alt-(diethyl carbonate)}
+Polymer Smiles:CCOC1OC(*)C(COC(=O)OC*)O1
+Monomer Smiles 1: OCC(C(O1)CO)OC1OCC
+Monomer Smiles 2: CCOC(=O)OCC
+ID:P370680
+Name:poly{[2,6-bis(4-hydroxyphenoxy)pyridine]-alt-[bis(4-fluorophenyl)phenylphosphine oxide]}
+Polymer Smiles:[*]c1nc(Oc2ccc(Oc3ccc(P(c4ccc(OC5=CC=C(O[*])C=C5)cc4)(C6=CC=CC=C6)=O)cc3)cc2)ccc1
+Monomer Smiles 1: Oc1ccc(Oc2cccc(Oc3ccc(O)cc3)n2)cc1
+Monomer Smiles 2: Fc1ccc(cc1)P(=O)(c1ccccc1)c1ccc(F)cc1
+ID:P370688
+Name:poly{[4,4'-(1-methylethane-1,1-diyl)diphenol]-alt-[bis(4-fluorophenyl)methylphosphine oxide]}
+Polymer Smiles:CC(C)(c1ccc(*)cc1)c1ccc(Oc2ccc(cc2)P(C)(=O)c2ccc(O*)cc2)cc1
+Monomer Smiles 1: CC(C)(c1ccc(O)cc1)c1ccc(O)cc1
+Monomer Smiles 2: Fc1ccc(P(c2ccc(F)cc2)(C)=O)cc1
+ID:P370689
+Name:poly{phenolphthalein-alt-[bis(4-fluorophenyl)methylphosphine oxide]}
+Polymer Smiles:CP(=O)(c1ccc(Oc2ccc(*)cc2)cc1)c1ccc(Oc2ccc(cc2)C2(*)OC(=O)c3ccccc23)cc1
+Monomer Smiles 1: Oc1ccc(cc1)C1(OC(=O)c2ccccc12)c1ccc(O)cc1
+Monomer Smiles 2: Fc1ccc(P(c2ccc(F)cc2)(C)=O)cc1
+ID:P370703
+Name:poly{[4,4'-(1-methylethane-1,1-diyl)diphenol]-alt-[bis(4-chlorophenyl)sulfone]}
+Polymer Smiles:CC(C)(c1ccc(*)cc1)c1ccc(Oc2ccc(c(c2)N=[N+]=[N-])S(=O)(=O)c2ccc(O*)cc2N=[N+]=[N-])cc1
+Monomer Smiles 1: CC(C)(c1ccc(O)cc1)c1ccc(O)cc1
+Monomer Smiles 2: Clc1ccc(S(=O)(c2c(N=[N+]=[N-])cc(Cl)cc2)=O)c(N=[N]=[N])c1
+ID:P370704
+Name:poly{hydroquinone-alt-[bis(4-fluorophenyl)methylphosphine oxide]}
+Polymer Smiles:CP(=O)(c1ccc(*)cc1)c1ccc(Oc2ccc(O*)cc2)cc1
+Monomer Smiles 1: Oc1ccc(O)cc1
+Monomer Smiles 2: Fc1ccc(P(c2ccc(F)cc2)(C)=O)cc1
+ID:P370705
+Name:poly{(4,4'-sulfonyldiphenol)-alt-[bis(4-fluorophenyl)methylphosphine oxide]}
+Polymer Smiles:CP(=O)(c1ccc(*)cc1)c1ccc(Oc2ccc(cc2)S(=O)(=O)c2ccc(O*)cc2)cc1
+Monomer Smiles 1: Oc1ccc(cc1)S(=O)(=O)c1ccc(O)cc1
+Monomer Smiles 2: Fc1ccc(P(c2ccc(F)cc2)(C)=O)cc1
+ID:P370712
+Name:poly{[bis(4-fluorophenyl) sulfone]-alt-[1,2-bis(4-hydroxybenzylidene)hydrazine]}
+Polymer Smiles:*Oc1ccc(cc1)S(=O)c1ccc(Oc2ccc(C=NN=Cc3ccc(*)cc3)cc2)cc1
+Monomer Smiles 1: Fc1ccc(S(c2ccc(F)cc2)=O)cc1
+Monomer Smiles 2: Oc1ccc(C=NN=Cc2ccc(O)cc2)cc1
+ID:P370715
+Name:poly{[4,4'-(1-methylethane-1,1-diyl)diphenol]-alt-[bis(4-fluorophenyl)phenylphosphine oxide]}
+Polymer Smiles:CC(c1ccc(Oc2ccc(P(c3ccc(O[*])cc3)(C4=CC=CC=C4)=O)cc2)cc1)(C)C5=CC=C(C=C5)[*]
+Monomer Smiles 1: CC(C)(c1ccc(O)cc1)c1ccc(O)cc1
+Monomer Smiles 2: Fc1ccc(cc1)P(=O)(c1ccccc1)c1ccc(F)cc1
+ID:P370720
+Name:poly{(3,3'-dihydroxybenzidine)-alt-[4,4'-(1-phenyl-2,2,2-trifluoroethane-1,1-diyl)bis(benzoyl chloride)]}
+Polymer Smiles:[*]c1ccc(C(c2ccccc2)(c3ccc(c(n4)oc5c4ccc(c(cc6)cc7c6nc([*])o7)c5)cc3)C(F)(F)F)cc1
+Monomer Smiles 1: Nc1ccc(cc1O)-c1ccc(N)c(O)c1
+Monomer Smiles 2: FC(F)(F)C(c1ccccc1)(c1ccc(cc1)C(Cl)=O)c1ccc(cc1)C(Cl)=O
+ID:P370740
+Name:poly([4,4'-(1-methylethane-1,1-diyl)diphenol]-alt-{1,2-bis[(4-difluoro)phenyl]ethanedione})
+Polymer Smiles:FC(F)(F)C(c1ccc(O*)cc1)(c1ccc(Oc2ccc(cc2)C(=O)C(=O)c2ccc(*)cc2)cc1)C(F)(F)F
+Monomer Smiles 1: Oc1ccc(C(c2ccc(O)cc2)(C(F)(F)F)C(F)(F)F)cc1
+Monomer Smiles 2: Fc1ccc(cc1)C(=O)C(=O)c1ccc(F)cc1
+ID:P370804
+Name:poly({2,2'-(1,4-phenylene)bis[4-(4-hydroxyphenyl)-5-phenylimidazole]}-alt-[4,4'-bis(4-fluorobenzenecarbonyl)biphenyl])
+Polymer Smiles:*c1nc([nH]c1-c1ccccc1)-c1cccc(c1)-c1nc(c([nH]1)-c1ccccc1)-c1ccc(Oc2ccc(cc2)C(=O)c2ccc(cc2)-c2ccc(cc2)C(=O)c2ccc(Oc3ccc(*)cc3)cc2)cc1
+Monomer Smiles 1: Oc1ccc(c2c(c3ccccc3)[nH]c(c4cccc(c5[nH]c(c6ccccc6)c(c7ccc(O)cc7)n5)c4)n2)cc1
+Monomer Smiles 2: Fc1ccc(cc1)C(=O)c1ccc(cc1)-c1ccc(cc1)C(=O)c1ccc(F)cc1
+ID:P370805
+Name:poly({2,2'-(1,4-phenylene)bis[4-(4-hydroxyphenyl)-5-phenylimidazole]}-alt-[1,4-bis(4-fluorobenzoyl)benzene])
+Polymer Smiles:*c1nc([nH]c1-c1ccccc1)-c1cccc(c1)-c1nc(c([nH]1)-c1ccccc1)-c1ccc(Oc2ccc(cc2)C(=O)c2ccc(cc2)C(=O)c2ccc(Oc3ccc(*)cc3)cc2)cc1
+Monomer Smiles 1: Oc1ccc(c2c(c3ccccc3)[nH]c(c4cccc(c5[nH]c(c6ccccc6)c(c7ccc(O)cc7)n5)c4)n2)cc1
+Monomer Smiles 2: Fc1ccc(cc1)C(=O)c1ccc(cc1)C(=O)c1ccc(F)cc1
+ID:P370806
+Name:poly({2,2'-(1,4-phenylene)bis[4-(4-hydroxyphenyl)-5-phenylimidazole]}-alt-[1,3-bis(4-fluorobenzoyl)benzene])
+Polymer Smiles:*c1nc([nH]c1-c1ccccc1)-c1cccc(c1)-c1nc(c([nH]1)-c1ccccc1)-c1ccc(Oc2ccc(cc2)C(=O)c2cccc(c2)C(=O)c2ccc(Oc3ccc(*)cc3)cc2)cc1
+Monomer Smiles 1: Oc1ccc(c2c(c3ccccc3)[nH]c(c4cccc(c5[nH]c(c6ccccc6)c(c7ccc(O)cc7)n5)c4)n2)cc1
+Monomer Smiles 2: Fc1ccc(cc1)C(=O)c1cccc(c1)C(=O)c1ccc(F)cc1
+ID:P370834
+Name:poly{[bis(4-fluorophenyl)phenylphosphine oxide]-alt-[2-phenyl-4,5-bis(4-hydroxyphenyl)imidazole]}
+Polymer Smiles:[*]c1c(c2ccc(Oc3ccc(P(c4ccc(OC5=CC=C([*])C=C5)cc4)(C6=CC=CC=C6)=O)cc3)cc2)[nH]c(c7ccccc7)n1
+Monomer Smiles 1: Fc1ccc(cc1)P(=O)(c1ccccc1)c1ccc(F)cc1
+Monomer Smiles 2: Oc1ccc(cc1)-c1nc([nH]c1-c1ccc(O)cc1)-c1ccccc1
+ID:P372014
+Name:poly({N-[bis(4-fluorophenyl)methylidene]aniline}-alt-hydroquinone)
+Polymer Smiles:[*]Oc1ccc(Oc2ccc(C(C3=CC=C([*])C=C3)=NC4=CC=CC=C4)cc2)cc1
+Monomer Smiles 1: Fc1ccc(cc1)C(=Nc1ccccc1)c1ccc(F)cc1
+Monomer Smiles 2: Oc1ccc(O)cc1
+ID:P372021
+Name:poly{[bis(4-fluorophenyl)methylphosphine oxide]-alt-[bis(4-hydroxyphenyl)methylphosphine oxide]}
+Polymer Smiles:CP(=O)(c1ccc(*)cc1)c1ccc(O*)cc1
+Monomer Smiles 1: Fc1ccc(P(c2ccc(F)cc2)(C)=O)cc1
+Monomer Smiles 2: CP(=O)(c1ccc(O)cc1)c1ccc(O)cc1
+ID:P372022
+Name:poly{[bis(4-fluorophenyl)methylphosphine oxide]-alt-[bis(4-hydroxyphenyl)phenylphosphine oxide]}
+Polymer Smiles:CP(=O)(c1ccc(O*)cc1)c1ccc(Oc2ccc(cc2)P(=O)(c2ccccc2)c2ccc(*)cc2)cc1
+Monomer Smiles 1: Fc1ccc(P(c2ccc(F)cc2)(C)=O)cc1
+Monomer Smiles 2: Oc1ccc(cc1)P(=O)(c1ccccc1)c1ccc(O)cc1
+ID:P372028
+Name:poly{[1,2-bis(4-fluorobenzylidene)hydrazine]-alt-[bis(4-fluorophenyl)sulfone]}
+Polymer Smiles:*Oc1ccc(cc1)S(=O)(=O)c1ccc(Oc2ccc(C=NN=Cc3ccc(*)cc3)cc2)cc1
+Monomer Smiles 1: Fc1ccc(C=NN=Cc2ccc(F)cc2)cc1
+Monomer Smiles 2: Oc1ccc(S(=O)(c2ccc(O)cc2)=O)cc1
+ID:P372039
+Name:poly({N,N'-bis[1-(4-fluorophenyl)ethylidene]-p-phenylenediamine}-alt-[4,4'-(1-methylethane-1,1-diyl)diphenol])
+Polymer Smiles:CC(C)(c1ccc(O[*])cc1)c2ccc(Oc3ccc(/C(C)=N/c4ccc(/N=C(C)/c5ccc([*])cc5)cc4)cc3)cc2
+Monomer Smiles 1: CC(=Nc1ccc(cc1)N=C(C)c1ccc(F)cc1)c1ccc(F)cc1
+Monomer Smiles 2: CC(C)(c1ccc(O)cc1)c1ccc(O)cc1
+ID:P372040
+Name:poly({N,N'-bis[1-(4-fluorophenyl)ethylidene]-p-phenylenediamine}-alt-[4,4'-(diphenylmethylene)diphenol])
+Polymer Smiles:[*]Oc1ccc(C(c2ccccc2)(c3ccccc3)c4ccc(Oc5ccc(/C(C)=N/c6ccc(/N=C(C)/c7ccc([*])cc7)cc6)cc5)cc4)cc1
+Monomer Smiles 1: CC(=Nc1ccc(cc1)N=C(C)c1ccc(F)cc1)c1ccc(F)cc1
+Monomer Smiles 2: Oc1ccc(cc1)C(c1ccccc1)(c1ccccc1)c1ccc(O)cc1
+ID:P372041
+Name:poly({N,N'-bis[1-(4-fluorophenyl)ethylidene]-4,4'-oxydianiline}-alt-[4,4'-(1-methylethane-1,1-diyl)diphenol])
+Polymer Smiles:CC(C)(c1ccc(O[*])cc1)c2ccc(Oc3ccc(/C(C)=N/c4ccc(Oc5ccc(/N=C(C)/c6ccc([*])cc6)cc5)cc4)cc3)cc2
+Monomer Smiles 1: CC(=Nc1ccc(Oc2ccc(cc2)N=C(C)c2ccc(F)cc2)cc1)c1ccc(F)cc1
+Monomer Smiles 2: CC(C)(c1ccc(O)cc1)c1ccc(O)cc1
+ID:P372042
+Name:poly({N,N'-bis[1-(4-fluorophenyl)ethylidene]-4,4'-oxydianiline}-alt-[4,4'-(diphenylmethylene)diphenol])
+Polymer Smiles:[*]Oc1ccc(C(c2ccccc2)(c3ccccc3)c4ccc(Oc5ccc(/C(C)=N/c6ccc(Oc7ccc(/N=C(C)/c8ccc([*])cc8)cc7)cc6)cc5)cc4)cc1
+Monomer Smiles 1: CC(=Nc1ccc(Oc2ccc(cc2)N=C(C)c2ccc(F)cc2)cc1)c1ccc(F)cc1
+Monomer Smiles 2: Oc1ccc(cc1)C(c1ccccc1)(c1ccccc1)c1ccc(O)cc1
+ID:P372046
+Name:poly[(3,3'-sulfanediyldipropanoic acid)-alt-(3,6,9-trioxaundecane-1,11-diol)]
+Polymer Smiles:*OCCOCCOCCOC(=O)CCSCCC(*)=O
+Monomer Smiles 1: OC(=O)CCSCCC(O)=O
+Monomer Smiles 2: OCCOCCOCCO
+ID:P372053
+Name:poly{[5,5'-sulfanylbis(furan-2-carbaldehyde)]-alt-cyclopentanone}
+Polymer Smiles:*C=C1CCCCC(=Cc2ccc(Sc3ccc(*)o3)o2)C1=O
+Monomer Smiles 1: O=Cc1ccc(Sc2ccc(C=O)o2)o1
+Monomer Smiles 2: O=C1CCCCCC1
+ID:P372078
+Name:poly({1,1'-[1,4-phenylenebis(oxy-4,1-phenylene)]diethan-1-one}-alt-(biphenyl-4,4'-diamine))
+Polymer Smiles:Cc1c([*])ccc(/C(C)=N/c2ccc(c3ccc(/N=C(C)/c4ccc(Oc5ccc(O[*])cc5)cc4)cc3)cc2)c1C
+Monomer Smiles 1: CC(=O)c1ccc(Oc2ccc(Oc3ccc(cc3)C(C)=O)cc2)cc1
+Monomer Smiles 2: Nc1ccc(cc1)-c1ccc(N)cc1
+ID:P372079
+Name:poly({1,1'-[1,4-phenylenebis(oxy-4,1-phenylene)]diethan-1-one}-alt-(4,4'-oxydianiline))
+Polymer Smiles:[*]Oc1ccc(Oc2ccc(/C(C)=N/c3ccc(Oc4ccc(/N=C(C)/c5ccc([*])cc5)cc4)cc3)cc2)cc1
+Monomer Smiles 1: CC(=O)c1ccc(Oc2ccc(Oc3ccc(cc3)C(C)=O)cc2)cc1
+Monomer Smiles 2: Nc1ccc(Oc2ccc(N)cc2)cc1
+ID:P372080
+Name:poly({1,1'-[1,4-phenylenebis(oxy-4,1-phenylene)]diethan-1-one}-alt-(4,4'-methylenedianiline))
+Polymer Smiles:[*]c1ccc(/C(C)=N/c2ccc(Cc3ccc(/N=C(C)/c4ccc(Oc5ccc(O[*])cc5)cc4)cc3)cc2)cc1
+Monomer Smiles 1: CC(=O)c1ccc(Oc2ccc(Oc3ccc(cc3)C(C)=O)cc2)cc1
+Monomer Smiles 2: Nc1ccc(Cc2ccc(N)cc2)cc1
+ID:P372081
+Name:poly({1,1'-[1,4-phenylenebis(oxy-4,1-phenylene)]diethan-1-one}-alt-(benzene-1,2-diamine))
+Polymer Smiles:[*]Oc1ccc(Oc2ccc(/C(C)=N\c3c(/N=C(C)\c4ccc([*])cc4)cccc3)cc2)cc1
+Monomer Smiles 1: CC(=O)c1ccc(Oc2ccc(Oc3ccc(cc3)C(C)=O)cc2)cc1
+Monomer Smiles 2: Nc1ccccc1N
+ID:P372082
+Name:poly({1,1'-[1,4-phenylenebis(oxy-4,1-phenylene)]diethan-1-one}-alt-(propane-1,3-diamine))
+Polymer Smiles:[*]c1ccc(/C(C)=N/CCC/N=C(C)/c2ccc(Oc3ccc(O[*])cc3)cc2)cc1
+Monomer Smiles 1: CC(=O)c1ccc(Oc2ccc(Oc3ccc(cc3)C(C)=O)cc2)cc1
+Monomer Smiles 2: NCCCN
+ID:P372083
+Name:poly({1,1'-[1,4-phenylenebis(oxy-4,1-phenylene)]diethan-1-one}-alt-(hexane-1,6-diamine))
+Polymer Smiles:[*]c1ccc(/C(C)=N/CCCCCC/N=C(C)/c2ccc(Oc3ccc(O[*])cc3)cc2)cc1
+Monomer Smiles 1: CC(=O)c1ccc(Oc2ccc(Oc3ccc(cc3)C(C)=O)cc2)cc1
+Monomer Smiles 2: NCCCCCCN
+ID:P372085
+Name:poly({1,5-bis[(4-fluorophenyl)sulfonyl]naphthalene}-alt-(3,3',5,5'-tetramethylbiphenyl-4,4'-diol))
+Polymer Smiles:[*]OC1=C(C)C=C(c2cc(C)c(Oc3ccc(S(=O)(c(ccc4)c5c4c(S(=O)(c6ccc([*])cc6)=O)ccc5)=O)cc3)c(C)c2)C=C1C
+Monomer Smiles 1: Fc1ccc(cc1)S(=O)(=O)c1cccc2c(cccc12)S(=O)(=O)c1ccc(F)cc1
+Monomer Smiles 2: Cc1cc(cc(C)c1O)-c1cc(C)c(O)c(C)c1
+ID:P372086
+Name:poly({1,5-bis[(4-fluorophenyl)sulfonyl]naphthalene}-alt-(2,2',3,3',5,5'-hexamethylbiphenyl-4,4'-diol))
+Polymer Smiles:O=S(c1ccc(Oc2c(C)c(C)c(C3=CC(C)=C(O[*])C(C)=C3C)cc2C)cc1)(c(ccc4)c5c4c(S(=O)(c6ccc([*])cc6)=O)ccc5)=O
+Monomer Smiles 1: Fc1ccc(cc1)S(=O)(=O)c1cccc2c(cccc12)S(=O)(=O)c1ccc(F)cc1
+Monomer Smiles 2: Cc1c(O)c(C)cc(c2c(C)c(C)c(O)c(C)c2)c1C
+ID:P372088
+Name:poly({2,6-bis[(4-fluorophenyl)sulfonyl]naphthalene}-alt-(3,3',5,5'-tetramethylbiphenyl-4,4'-diol))
+Polymer Smiles:[*]OC1=C(C)C=C(c2cc(C)c(Oc3ccc(S(=O)(c(cc4)cc5c4cc(S(=O)(c6ccc([*])cc6)=O)cc5)=O)cc3)c(C)c2)C=C1C
+Monomer Smiles 1: Fc1ccc(cc1)S(=O)(=O)c1ccc2cc(ccc2c1)S(=O)(=O)c1ccc(F)cc1
+Monomer Smiles 2: Cc1cc(cc(C)c1O)-c1cc(C)c(O)c(C)c1
+ID:P372089
+Name:poly({2,6-bis[(4-fluorophenyl)sulfonyl]naphthalene}-alt-(2,2',3,3',5,5'-hexamethylbiphenyl-4,4'-diol))
+Polymer Smiles:O=S(c1ccc(Oc2c(C)c(C)c(C3=C(C)C(C)=C(O[*])C(C)=C3)cc2C)cc1)(c(cc4)cc5c4cc(S(=O)(c6ccc([*])cc6)=O)cc5)=O
+Monomer Smiles 1: Fc1ccc(cc1)S(=O)(=O)c1ccc2cc(ccc2c1)S(=O)(=O)c1ccc(F)cc1
+Monomer Smiles 2: Cc1cc(c(C)c(C)c1O)-c1cc(C)c(O)c(C)c1C
+ID:P372100
+Name:poly{(3,3',5,5'-tetramethylbiphenyl-4,4'-diol)-alt-[2,6-bis(4-fluorobenzoyl)naphthalene]}
+Polymer Smiles:[*]OC1=C(C)C=C(c2cc(C)c(Oc3ccc(C(c(cc4)cc5c4cc(C(c6ccc([*])cc6)=O)cc5)=O)cc3)c(C)c2)C=C1C
+Monomer Smiles 1: Cc1cc(cc(C)c1O)-c1cc(C)c(O)c(C)c1
+Monomer Smiles 2: Fc1ccc(cc1)C(=O)c1ccc2cc(ccc2c1)C(=O)c1ccc(F)cc1
+ID:P372101
+Name:poly{[2,6-bis(4-fluorobenzoyl)naphthalene]-alt-(2,2',3,3',5,5'-hexamethylbiphenyl-4,4'-diol)}
+Polymer Smiles:O=C(c(cc1)cc2c1cc(C(c3ccc([*])cc3)=O)cc2)c4ccc(Oc5c(C)c(C)c(C6=CC(C)=C(O[*])C(C)=C6C)cc5C)cc4
+Monomer Smiles 1: Fc1ccc(cc1)C(=O)c1ccc2cc(ccc2c1)C(=O)c1ccc(F)cc1
+Monomer Smiles 2: Cc1cc(c(C)c(C)c1O)-c1cc(C)c(O)c(C)c1C
+ID:P372152
+Name:poly[(3,3',5,5'-tetramethylbiphenyl-4,4'-diol)-alt-(4,4'-difluorobenzophenone)]
+Polymer Smiles:[*]OC1=CC=C(c2ccc(Oc3ccc(C(c4ccc([*])cc4)=O)cc3)cc2)C=C1
+Monomer Smiles 1: Oc1ccc(c2ccc(O)cc2)cc1
+Monomer Smiles 2: Fc1ccc(cc1)C(=O)c1ccc(F)cc1
+ID:P372701
+Name:poly{[2,5-bis(4-{4-[4-(4-chlorophenyl)sulfonyl]phenoxy}benzylidene)cyclopentanone]-alt-(potassium sebacate)}
+Polymer Smiles:*Oc1ccc(cc1)S(=O)(=O)c1ccc(OC(=O)CCCCCCCCC(=O)Oc2ccc(cc2)S(=O)(=O)c2ccc(Oc3ccc(C=C4CCC(=Cc5ccc(*)cc5)C4=O)cc3)cc2)cc1
+Monomer Smiles 1: Clc1ccc(S(=O)(c2ccc(Oc3ccc(/C=C4CC/C(C\4=O)=C/c5ccc(Oc6ccc(S(=O)(C7=CC=C(Cl)C=C7)=O)cc6)cc5)cc3)cc2)=O)cc1
+Monomer Smiles 2: [K+].[K+].[O-]C(=O)CCCCCCCCC([O-])=O
+ID:P372703
+Name:poly[(1,2-acenaphthoquinone)-alt-(1,1,3,3,5,5,7,7,9,9,11,11-dodecamethylhexasiloxane)]
+Polymer Smiles:C[Si](O[*])(O[Si](C)(O[Si](C)(O[Si](C)(O[Si](C)(O[Si](C)(OC1C(c(ccc2)c3c2cccc13)[*])C)C)C)C)C)C
+Monomer Smiles 1: O=c1c2cccc3cccc(c23)c1=O
+Monomer Smiles 2: C[SiH](C)O[Si](C)(C)O[Si](C)(C)O[Si](C)(C)O[Si](C)(C)O[SiH](C)C
+ID:P372704
+Name:poly[(1,2-acenaphthoquinone)-alt-(1,1,3,3,5,5,7,7,9,9-decamethylpentasiloxane)]
+Polymer Smiles:C[Si](O[*])(O[Si](C)(O[Si](C)(O[Si](C)(O[Si](C)(OC1C(c(ccc2)c3c2cccc13)[*])C)C)C)C)C
+Monomer Smiles 1: O=c1c2cccc3cccc(c23)c1=O
+Monomer Smiles 2: C[SiH](C)O[Si](C)(C)O[Si](C)(C)O[Si](C)(C)O[SiH](C)C
+ID:P372705
+Name:poly[(1,2-acenaphthoquinone)-alt-(1,1,3,3,5,5,7,7-octamethyltetrasiloxane)]
+Polymer Smiles:C[Si](O[*])(O[Si](C)(O[Si](C)(O[Si](C)(OC1C(c(ccc2)c3c2cccc13)[*])C)C)C)C
+Monomer Smiles 1: O=c1c2cccc3cccc(c23)c1=O
+Monomer Smiles 2: C[SiH](C)O[Si](C)(C)O[Si](C)(C)O[SiH](C)C
+ID:P372709
+Name:poly({4,4'-[1-(trifluoromethyl)-2,2,2-trifluoroethane-1,1-diylbis(4,1-phenyleneoxy)]dianiline}-alt-(5-phthalimidoisophthalic acid))
+Polymer Smiles:[*]c1ccc(C(c2ccc(Oc3ccc(NC(c4cc(C(Nc5ccc(O[*])cc5)=O)cc(N6C(c7c(C6=O)cccc7)=O)c4)=O)cc3)cc2)(C(F)(F)F)C(F)(F)F)cc1
+Monomer Smiles 1: Nc1ccc(Oc2ccc(cc2)C(c2ccc(Oc3ccc(N)cc3)cc2)(C(F)(F)F)C(F)(F)F)cc1
+Monomer Smiles 2: OC(=O)c1cc(cc(c1)C(O)=O)N1C(=O)c2ccccc2C1=O
+ID:P372758
+Name:poly((4,4'-oxydianiline)-alt-{4,4'-[3,4-diphenylthiophene-2,5-diylbis(4,1-phenylene)]diacetic acid})
+Polymer Smiles:*c1sc(c(c1-c1ccccc1)-c1ccccc1)-c1ccc(CC(=O)Nc2ccc(Oc3ccc(NC(=O)Cc4ccc(*)cc4)cc3)cc2)cc1
+Monomer Smiles 1: Nc1ccc(Oc2ccc(N)cc2)cc1
+Monomer Smiles 2: O=C(O)Cc1ccc(c2c(c3ccccc3)c(c4ccccc4)c(c5ccc(CC(O)=O)cc5)s2)cc1
+ID:P372797
+Name:poly{[2,2'-iminobis(ethylamine)]-alt-(4-methyl-1,3-phenylene diisocyanate)}
+Polymer Smiles:Cc1c(NC([*])=O)cc(NC(NCCNCCN[*])=O)cc1
+Monomer Smiles 1: NCCNCCN
+Monomer Smiles 2: Cc1ccc(cc1N=C=O)N=C=O
+ID:P372820
+Name:poly((hexahydrofuro[3,2-b]furan-3,6-diol)-alt-{(Z,Z)-3,3'-[methylenebis(3-nitro-4,1-phenyleneiminocarbonyl)]dipropenoyl dichloride})
+Polymer Smiles:[O-][N+](=O)c1cc(NC(=O)C=CC(=O)O*)ccc1S(=O)(=O)c1ccc(NC(=O)C=CC(=O)OC2COC3C(*)COC23)cc1[N+]([O-])=O
+Monomer Smiles 1: OC1COC2C(O)COC12
+Monomer Smiles 2: [O-][N+](c1c(S(c2c([N+]([O-])=O)cc(NC(/C=C/C(Cl)=O)=O)cc2)(=O)=O)ccc(NC(/C=C/C(Cl)=O)=O)c1)=O
+ID:P372856
+Name:poly[(ethyl thiophen-3-ylacetate)-alt-(4,4'-oxydibenzoyl dichloride)]
+Polymer Smiles:*Oc1cccc2cc(OC(=O)c3ccc(Oc4ccc(cc4)C(*)=O)cc3)ccc12
+Monomer Smiles 1: Oc(ccc1)c2c1cc(O)cc2
+Monomer Smiles 2: ClC(=O)c1ccc(Oc2ccc(cc2)C(Cl)=O)cc1
+ID:P372857
+Name:poly[(naphthalene-2,3-diol)-alt-(4,4'-oxydibenzoyl dichloride)]
+Polymer Smiles:*Oc1cc(OC(=O)c2ccc(Oc3ccc(cc3)C(*)=O)cc2)cc2ccccc12
+Monomer Smiles 1: Oc(cc(O)c1)c2c1cccc2
+Monomer Smiles 2: ClC(=O)c1ccc(Oc2ccc(cc2)C(Cl)=O)cc1
+ID:P372950
+Name:poly{(4,4'-dihydroxy-2,2'-dimethylazoxybenzene)-alt-[(R)-3-methyladipic acid]}
+Polymer Smiles:O=C(Oc1cc(C)c(/[N+]([O-])=N/c2c(C)cc([*])cc2)cc1)CCC(C)CC(O[*])=O
+Monomer Smiles 1: Cc1cc(O)ccc1N=[N+]([O-])c1ccc(O)cc1C
+Monomer Smiles 2: CC(CCC(O)=O)CC(O)=O
+ID:P372950
+Name:poly[(4,4'-dihydroxy-2,2'-dimethylazoxybenzene)-alt-(3-methylhexanedioyl dichloride)]
+Polymer Smiles:O=C(Oc1cc(C)c(/[N+]([O-])=N/c2c(C)cc([*])cc2)cc1)CCC(C)CC(O[*])=O
+Monomer Smiles 1: Cc1cc(O)ccc1N=[N+]([O-])c1ccc(O)cc1C
+Monomer Smiles 2: CC(CCC(Cl)=O)CC(Cl)=O
+ID:P372966
+Name:poly[(4,4'-dihydroxyazoxybenzene)-alt-(3-methyladipic acid)]
+Polymer Smiles:[*]C(CCC(C)CC(Oc1ccc(/N=[N+](c2ccc(O[*])cc2)\[O-])cc1)=O)=O
+Monomer Smiles 1: Oc1ccc(cc1)N=[N+]([O-])c1ccc(O)cc1
+Monomer Smiles 2: CC(CCC(O)=O)CC(O)=O
+ID:P372967
+Name:poly{[4,4'-bis(2-hydroxyethyl)azoxybenzene]-alt-(3-methyladipic acid)}
+Polymer Smiles:[*]C(CCC(C)CC(OCCc1ccc(/N=[N+](c2ccc(CCO[*])cc2)\[O-])cc1)=O)=O
+Monomer Smiles 1: OCCc1ccc(cc1)N=[N+]([O-])c1ccc(CCO)cc1
+Monomer Smiles 2: CC(CCC(O)=O)CC(O)=O
+ID:P373021
+Name:poly{[2,2',6,6'-tetramethyl-4,4'-(1-methylethane-1,1-diyl)diphenol]-alt-[bis(4-fluorophenyl) sulfone]}
+Polymer Smiles:Cc1cc(c(Br)c(C)c1*)C(C)(C)c1cc(C)c(Oc2ccc(cc2)S(=O)(=O)c2ccc(O*)cc2)c(C)c1Br
+Monomer Smiles 1: Cc1c(O)c(C)cc(C(C)(c2cc(C)c(O)c(C)c2Br)C)c1Br
+Monomer Smiles 2: Fc1ccc(cc1)S(=O)(=O)c1ccc(F)cc1
+ID:P373022
+Name:poly{[2,2',6,6'-tetramethyl-4,4'-(1-methylethane-1,1-diyl)diphenol]-alt-[bis(4-chlorophenyl) sulfone]}
+Polymer Smiles:Cc1cc(c(Br)c(C)c1O*)-c1cc(C)c(Oc2ccc(cc2)S(=O)(=O)c2ccc(*)cc2)c(C)c1Br
+Monomer Smiles 1: Cc1c(O)c(C)cc(C(C)(c2cc(C)c(O)c(C)c2Br)C)c1Br
+Monomer Smiles 2: Clc1ccc(cc1)S(=O)(=O)c1ccc(Cl)cc1
+ID:P373036
+Name:poly([11,11'-(biphenyl-4,4'-diyldioxy)diundecan-1-ol]-alt-{diethyl 5-[(6-{4-[(4-nitrophenyl)diazenyl]phenoxy}hexyl)oxy]isophthalate})
+Polymer Smiles:COc1ccc(cc1)N=Nc1ccc(OCCCCCCOc2cc(cc(c2)C(=O)OCCCCCCCCCCCOc2ccc(cc2)-c2ccc(OCCCCCCCCCCC*)cc2)C(=O)O*)cc1
+Monomer Smiles 1: OCCCCCCCCCCCOc1ccc(cc1)-c1ccc(OCCCCCCCCCCCO)cc1
+Monomer Smiles 2: CCOC(c1cc(C(OCC)=O)cc(OCCCCCCOc2ccc(/N=N/c3ccc(OC)cc3)cc2)c1)=O
+ID:P373038
+Name:poly([11,11'-(biphenyl-4,4'-diyldioxy)diundecan-1-ol]-alt-{diethyl 5-[(6-{4-[(4-nitrophenyl)diazenyl]phenoxy}hexyl)oxy]isophthalate})
+Polymer Smiles:COc1ccc(cc1)N=Nc1ccc(OCCCCCCCCOc2cc(cc(c2)C(=O)OCCCCCCCCCCCOc2ccc(cc2)-c2ccc(OCCCCCCCCCCC*)cc2)C(=O)O*)cc1
+Monomer Smiles 1: OCCCCCCCCCCCOc1ccc(cc1)-c1ccc(OCCCCCCCCCCCO)cc1
+Monomer Smiles 2: CCOC(c1cc(C(OCC)=O)cc(OCCCCCCOc2ccc(/N=N/c3ccc(OC)cc3)cc2)c1)=O
+ID:P373098
+Name:brominated poly({2,2',6,6'-tetramethyl-4,4'-[2,2,2-trifluoro-1-(trifluoromethyl)ethane-1,1-diyl]diphenol}-alt-[bis(4-fluorophenyl) sulfone])
+Polymer Smiles:Cc1cc(cc(C)c1*)C(c1cc(C)c(Oc2ccc(cc2Br)S(=O)(=O)c2ccc(O*)c(Br)c2)c(C)c1)(C(F)(F)F)C(F)(F)F
+Monomer Smiles 1: Cc1cc(cc(C)c1O)C(c1cc(C)c(O)c(C)c1)(C(F)(F)F)C(F)(F)F
+Monomer Smiles 2: Fc1ccc(S(=O)(c2cc(Br)c(F)cc2)=O)cc1Br
+ID:P373099
+Name:trimethylsilylated poly({2,2',6,6'-tetramethyl-4,4'-[2,2,2-trifluoro-1-(trifluoromethyl)ethane-1,1-diyl]diphenol}-alt-[bis(4-fluorophenyl) sulfone])
+Polymer Smiles:Cc1cc(cc(C)c1*)C(c1cc(C)c(Oc2ccc(c(c2)[Si](C)(C)C)S(=O)(=O)c2ccc(O*)cc2[Si](C)(C)C)c(C)c1)(C(F)(F)F)C(F)(F)F
+Monomer Smiles 1: Cc1cc(cc(C)c1O)C(c1cc(C)c(O)c(C)c1)(C(F)(F)F)C(F)(F)F
+Monomer Smiles 2: Fc1ccc(S(=O)(c2c([Si](C)(C)C)cc(F)cc2)=O)c([Si](C)(C)C)c1
+ID:P373100
+Name:poly[({eta5-cyclopentadienyl-4,4'-[(eta6-p-phenylene)dioxy]bisbenzaldehyde}iron(1+) hexafluorophosphate)-alt-(ethane-1,2-diamine)]
+Polymer Smiles:*Oc1ccc(Oc2ccc(C=NCCN=Cc3ccc(*)cc3)cc2)cc1
+Monomer Smiles 1: O=Cc1ccc(Oc2ccc(Oc3ccc(C=O)cc3)cc2)cc1
+Monomer Smiles 2: NCCN
+ID:P373101
+Name:poly[({eta5-cyclopentadienyl-4,4'-[(eta6-p-phenylene)dioxy]bisbenzaldehyde}iron(1+) hexafluorophosphate)-alt-(butane-1,4-diamine)]
+Polymer Smiles:*Oc1ccc(Oc2ccc(C=NCCCCN=Cc3ccc(*)cc3)cc2)cc1
+Monomer Smiles 1: O=Cc1ccc(Oc2ccc(Oc3ccc(C=O)cc3)cc2)cc1
+Monomer Smiles 2: NCCCCN
+ID:P373102
+Name:poly[({eta5-cyclopentadienyl-4,4'-[(eta6-p-phenylene)dioxy]bisbenzaldehyde}iron(1+) hexafluorophosphate)-alt-(hexane-1,6-diamine)]
+Polymer Smiles:*Oc1ccc(Oc2ccc(C=NCCCCCCN=Cc3ccc(*)cc3)cc2)cc1
+Monomer Smiles 1: O=Cc1ccc(Oc2ccc(Oc3ccc(C=O)cc3)cc2)cc1
+Monomer Smiles 2: NCCCCCCN
+ID:P373103
+Name:poly[({eta5-cyclopentadienyl-4,4'-[(eta6-p-phenylene)dioxy]bisbenzaldehyde}iron(1+) hexafluorophosphate)-alt-(decane-1,10-diamine)]
+Polymer Smiles:*Oc1ccc(Oc2ccc(C=NCCCCCCCCCCN=Cc3ccc(*)cc3)cc2)cc1
+Monomer Smiles 1: O=Cc1ccc(Oc2ccc(Oc3ccc(C=O)cc3)cc2)cc1
+Monomer Smiles 2: NCCCCCCCCCCN
+ID:P373104
+Name:poly[({eta5-cyclopentadienyl-4,4'-[(eta6-p-phenylene)dioxy]bisbenzaldehyde}iron(1+) hexafluorophosphate)-alt-(dodecane-1,12-diamine)]
+Polymer Smiles:*Oc1ccc(Oc2ccc(C=NCCCCCCCCCCCCN=Cc3ccc(*)cc3)cc2)cc1
+Monomer Smiles 1: O=Cc1ccc(Oc2ccc(Oc3ccc(C=O)cc3)cc2)cc1
+Monomer Smiles 2: NCCCCCCCCCCCCN
+ID:P373105
+Name:poly[({eta5-cyclopentadienyl-4,4'-[(eta6-p-phenylene)dioxy]bisbenzaldehyde}iron(1+) hexafluorophosphate)-alt-(benzene-1,4-diamine)]
+Polymer Smiles:*Oc1ccc(Oc2ccc(C=Nc3ccc(cc3)N=Cc3ccc(*)cc3)cc2)cc1
+Monomer Smiles 1: O=Cc1ccc(Oc2ccc(Oc3ccc(C=O)cc3)cc2)cc1
+Monomer Smiles 2: Nc1ccc(N)cc1
+ID:P373106
+Name:poly[({eta5-cyclopentadienyl-4,4'-[(eta6-p-phenylene)dioxy]bisbenzaldehyde}iron(1+) hexafluorophosphate)-alt-(4,4'-oxydianiline)]
+Polymer Smiles:*Oc1ccc(Oc2ccc(C=Nc3ccc(Oc4ccc(cc4)N=Cc4ccc(*)cc4)cc3)cc2)cc1
+Monomer Smiles 1: O=Cc1ccc(Oc2ccc(Oc3ccc(C=O)cc3)cc2)cc1
+Monomer Smiles 2: Nc1ccc(Oc2ccc(N)cc2)cc1
+ID:P373210
+Name:2-((N-ethyl){N-4-[4-(2,3,4,5,6-pentafluorophenylhydrazonomethanylylidene)phenyldiazenyl]phenyl}amino)ethanol-modified poly{[4,4-bis(4-hydroxyphenyl)pentanoic acid]-alt-[bis(4-chlorophenyl) sulfone]}
+Polymer Smiles:CCN(CCOC(=O)CCC(C)(c1ccc(*)cc1)c1ccc(Oc2ccc(cc2)S(=O)(=O)c2ccc(O*)cc2)cc1)c1ccc(cc1)N=Nc1ccc(C=NNc2c(F)c(F)c(F)c(F)c2F)cc1
+Monomer Smiles 1: CC(c1ccc(O)cc1)(CCC(OCCN(c2ccc(/N=N/c3ccc(/C=N/Nc4c(F)c(F)c(F)c(F)c4F)cc3)cc2)CC)=O)c5ccc(O)cc5
+Monomer Smiles 2: Clc1ccc(cc1)S(=O)(=O)c1ccc(Cl)cc1
+ID:P373211
+Name:2-{(N-methyl)[N-4-(2,3,4,5,6-pentafluorophenyldiazenyl)phenyl]amino}ethanol-modified poly{[4,4-bis(4-hydroxyphenyl)pentanoic acid]-alt-[bis(4-chlorophenyl) sulfone]}
+Polymer Smiles:CN(c1ccc(/N=N/c2c(F)c(F)c(F)c(F)c2F)cc1)CCOC(CCC(c3ccc([*])cc3)(C)c4ccc(Oc5ccc(S(=O)(c6ccc(O[*])cc6)=O)cc5)cc4)=O
+Monomer Smiles 1: CN(c1ccc(/N=N/c2c(F)c(F)c(F)c(F)c2F)cc1)CCOC(CCC(c3ccc(O)cc3)(C)c4ccc(O)cc4)=O
+Monomer Smiles 2: Clc1ccc(cc1)S(=O)(=O)c1ccc(Cl)cc1
+ID:P373269
+Name:poly{[bis(pentafluorophenyl) sulfone]-alt-4',4''-({4-[(4-nitrophenyl)diazenyl]phenyl}imino)di(biphenyl-4-ol)}
+Polymer Smiles:[O-][N+](=O)c1ccc(cc1)N=Nc1ccc(cc1)N(c1ccc(cc1)-c1ccc(*)cc1)c1ccc(cc1)-c1ccc(Oc2c(F)c(F)c(c(F)c2F)S(=O)(=O)c2c(F)c(F)c(O*)c(F)c2F)cc1
+Monomer Smiles 1: Fc1c(F)c(F)c(c(F)c1F)S(=O)(=O)c1c(F)c(F)c(F)c(F)c1F
+Monomer Smiles 2: Oc1ccc(c2ccc(N(C3=CC=C(c4ccc(O)cc4)C=C3)c5ccc(/N=N/c6ccc([N+]([O-])=O)cc6)cc5)cc2)cc1
+ID:P380002
+Name:poly[(1,4-cyclohexanedione)-alt-(3,3'-dimercaptobenzidine)]
+Polymer Smiles:[*]c1cc2c(NC3CC4Sc5c(NC4CC3S2)ccc([*])c5)cc1
+Monomer Smiles 1: O=C1CCC(=O)CC1
+Monomer Smiles 2: Nc1ccc(cc1S)-c1ccc(N)c(S)c1
+ID:P380003
+Name:poly[(1,4-cyclohexanedione)-alt-(3,3'-dimercaptobenzidine)]
+Polymer Smiles:[*]c1cc2c(NC3CC4Nc5c(SC4CC3S2)cc([*])cc5)cc1
+Monomer Smiles 1: O=C1CCC(=O)CC1
+Monomer Smiles 2: Nc1ccc(cc1S)-c1ccc(N)c(S)c1
+ID:P380013
+Name:poly{[1,4-bis(2-bromopropionyl)benzene]-alt-(benzene-1,4-biscarbothioamide)}
+Polymer Smiles:OC(=O)c1sc(*)nc1-c1ccc(cc1)-c1nc(sc1C(O)=O)-c1ccc(*)cc1
+Monomer Smiles 1: BrC(C(c1ccc(C(C(Br)C(O)=O)=O)cc1)=O)C(O)=O
+Monomer Smiles 2: NC(=S)c1ccc(cc1)C(N)=S
+ID:P380038
+Name:poly[(3,3'-disulfanylbenzidine)-alt-(4,4'-diacetoxybenzophenone)]
+Polymer Smiles:*c1nc2ccc(cc2s1)-c1ccc2nc(sc2c1)-c1ccc(cc1)C(=O)c1ccc(*)cc1
+Monomer Smiles 1: COC(c1ccc(C(c2ccc(C(OC)=O)cc2)=O)cc1)=O
+Monomer Smiles 2: CC(=O)Oc1ccc(cc1)C(=O)c1ccc(OC(C)=O)cc1
+ID:P380054
+Name:poly{(biphenyl-4,4'-dithiol potassium salt)-alt-[bis(4-fluorophenyl)phenylphosphine oxide]}
+Polymer Smiles:[*]Sc1ccc(c2ccc(Sc3ccc(P(C4=CC=C(C=C4)[*])(C5=CC=CC=C5)=O)cc3)cc2)cc1
+Monomer Smiles 1: [K+].[K+].[S-]c1ccc(cc1)-c1ccc([S-])cc1
+Monomer Smiles 2: Fc1ccc(cc1)P(=O)(c1ccccc1)c1ccc(F)cc1
+ID:P380085
+Name:poly({2,2-bis[4-(4-fluorobenzoyl)phenyl]-1,1,1,3,3,3-hexafluoropropane}-alt-(potassium sulfide))
+Polymer Smiles:O=C(c1ccc([*])cc1)c2ccc(C(c3ccc(C(c4ccc(S[*])cc4)=O)cc3)(C(F)(F)F)C(F)(F)F)cc2
+Monomer Smiles 1: Fc1ccc(cc1)C(=O)c1ccc(cc1)C(c1ccc(cc1)C(=O)c1ccc(F)cc1)(C(F)(F)F)C(F)(F)F
+Monomer Smiles 2: [K]S[K]
+ID:P380092
+Name:poly{[2,5-bis(2-thienyl)-1-dodecylpyrrole]-alt-(2,5-dibromothiophene)}
+Polymer Smiles:CCCCCCCCCCCCn1c(*)ccc1-c1ccc(s1)-c1ccc(s1)-c1ccc(s1)-c1ccc(*)s1
+Monomer Smiles 1: CCCCCCCCCCCCn1c(ccc1-c1cccs1)-c1cccs1
+Monomer Smiles 2: Brc1sc(c2sc(Br)cc2)cc1
+ID:P382067
+Name:poly[(2,5-dibromo-3,4-dinitrothiophene)-alt-(2,5-diethynylbenzene)]
+Polymer Smiles:[O-][N+](=O)c1c(sc(C#Cc2ccc(*)nc2)c1[N+]([O-])=O)C#C*
+Monomer Smiles 1: [O-][N+](=O)c1c(Br)sc(Br)c1[N+]([O-])=O
+Monomer Smiles 2: C#Cc1cnc(C#C)cc1
+ID:P382207
+Name:poly((p-phenylenediamine)-alt-{4,4'-[3,4-diphenylthiophene-2,5-diylbis(4,1-phenylene)]diacetic acid})
+Polymer Smiles:*c1sc(c(c1-c1ccccc1)-c1ccccc1)-c1ccc(CC(=O)Nc2ccc(NC(=O)Cc3ccc(*)cc3)cc2)cc1
+Monomer Smiles 1: Nc1ccc(N)cc1
+Monomer Smiles 2: OC(Cc1ccc(c2c(c3ccccc3)c(c4ccccc4)c(c5ccc(CC(O)=O)cc5)s2)cc1)=O
+ID:P382208
+Name:poly((m-phenylenediamine)-alt-{4,4'-[3,4-diphenylthiophene-2,5-diylbis(4,1-phenylene)]diacetic acid})
+Polymer Smiles:[*]c1c(c2ccccc2)c(c3ccccc3)c(c4cc(CC(Nc5ccc(NC(Cc6ccc([*])cc6)=O)cc5)=O)ccc4)s1
+Monomer Smiles 1: Nc1cccc(N)c1
+Monomer Smiles 2: OC(Cc1ccc(c2c(c3ccccc3)c(c4ccccc4)c(c5ccc(CC(O)=O)cc5)s2)cc1)=O
+ID:P382209
+Name:poly(benzidine-alt-{4,4'-[3,4-diphenylthiophene-2,5-diylbis(4,1-phenylene)]diacetic acid})
+Polymer Smiles:*c1sc(c(c1-c1ccccc1)-c1ccccc1)-c1ccc(CC(=O)Nc2ccc(cc2)-c2ccc(NC(=O)Cc3ccc(*)cc3)cc2)cc1
+Monomer Smiles 1: Nc1ccc(cc1)-c1ccc(N)cc1
+Monomer Smiles 2: OC(Cc1ccc(c2c(c3ccccc3)c(c4ccccc4)c(c5ccc(CC(O)=O)cc5)s2)cc1)=O
+ID:P382210
+Name:poly((4,4'-methylenedianiline)-alt-{4,4'-[3,4-diphenylthiophene-2,5-diylbis(4,1-phenylene)]diacetic acid})
+Polymer Smiles:*c1sc(c(c1-c1ccccc1)-c1ccccc1)-c1ccc(CC(=O)Nc2ccc(Cc3ccc(NC(=O)Cc4ccc(*)cc4)cc3)cc2)cc1
+Monomer Smiles 1: Nc1ccc(Cc2ccc(N)cc2)cc1
+Monomer Smiles 2: OC(Cc1ccc(c2c(c3ccccc3)c(c4ccccc4)c(c5ccc(CC(O)=O)cc5)s2)cc1)=O
+ID:P382253
+Name:poly({1,4-bis[5-bromo-3-(butylsulfanyl)-2-thienyl]benzene}-alt-(1,3-dibromobenzene))
+Polymer Smiles:CCCCSc1cc(sc1*)-c1ccc(cc1)-c1cc(SCCCC)c(s1)-c1ccc(*)cc1
+Monomer Smiles 1: CCCCSc1cc(Br)sc1-c1ccc(cc1)-c1sc(Br)cc1SCCCC
+Monomer Smiles 2: Brc1ccc(Br)cc1
+ID:P382254
+Name:poly({1,4-bis[5-bromo-3-(octylsulfanyl)-2-thienyl]benzene}-alt-(1,3-dibromobenzene))
+Polymer Smiles:CCCCCCCCSc1cc(sc1*)-c1ccc(cc1)-c1cc(SCCCCCCCC)c(s1)-c1ccc(*)cc1
+Monomer Smiles 1: CCCCCCCCSc1cc(Br)sc1-c1ccc(cc1)-c1sc(Br)cc1SCCCCCCCC
+Monomer Smiles 2: Brc1ccc(Br)cc1
+ID:P382255
+Name:poly({1,4-bis[5-bromo-3-(dodecylsulfanyl)-2-thienyl]benzene}-alt-(1,3-dibromobenzene))
+Polymer Smiles:CCCCCCCCCCCCSc1cc(sc1*)-c1ccc(cc1)-c1cc(SCCCCCCCCCCCC)c(s1)-c1ccc(*)cc1
+Monomer Smiles 1: CCCCCCCCCCCCSc1cc(Br)sc1-c1ccc(cc1)-c1sc(Br)cc1SCCCCCCCCCCCC
+Monomer Smiles 2: Brc1ccc(Br)cc1
+ID:P382259
+Name:poly{[1,4-bis(5-bromo-3-butyl-2-thienyl)benzene]-alt-(1,3-dibromobenzene)}
+Polymer Smiles:CCCCc1cc(sc1*)-c1ccc(cc1)-c1cc(CCCC)c(s1)-c1ccc(*)cc1
+Monomer Smiles 1: CCCCc1cc(Br)sc1-c1ccc(cc1)-c1sc(Br)cc1CCCC
+Monomer Smiles 2: Brc1ccc(Br)cc1
+ID:P382260
+Name:poly{[1,4-bis(5-bromo-3-octyl-2-thienyl)benzene]-alt-(1,3-dibromobenzene)}
+Polymer Smiles:CCCCCCCCc1cc(sc1*)-c1ccc(cc1)-c1cc(CCCCCCCC)c(s1)-c1ccc(*)cc1
+Monomer Smiles 1: CCCCCCCCc1cc(Br)sc1-c1ccc(cc1)-c1sc(Br)cc1CCCCCCCC
+Monomer Smiles 2: Brc1ccc(Br)cc1
+ID:P382261
+Name:poly{[1,4-bis(5-bromo-3-dodecyl-2-thienyl)benzene]-alt-(1,3-dibromobenzene)}
+Polymer Smiles:CCCCCCCCCCCCc1cc(sc1*)-c1ccc(cc1)-c1cc(CCCCCCCCCCCC)c(s1)-c1ccc(*)cc1
+Monomer Smiles 1: CCCCCCCCCCCCc1cc(Br)sc1-c1ccc(cc1)-c1sc(Br)cc1CCCCCCCCCCCC
+Monomer Smiles 2: Brc1ccc(Br)cc1
+ID:P390048
+Name:poly{[4,4'-(1-methylpropane-1,1-diyl)diphenol]-alt-(isophthaloyl dichloride)}
+Polymer Smiles:CCC(C)(c1ccc(*)cc1)c1ccc(OC(=O)C=CC(=O)O*)cc1
+Monomer Smiles 1: CCC(C)(c1ccc(O)cc1)c1ccc(O)cc1
+Monomer Smiles 2: ClC(/C=C/C(Cl)=O)=O
+ID:P390049
+Name:poly{[4,4'-(cyclohexane-1,1-diyl)diphenol]-alt-(isophthaloyl dichloride)}
+Polymer Smiles:*OC(=O)C=CC(=O)Oc1ccc(cc1)C1(CCCCC1)c1ccc(*)cc1
+Monomer Smiles 1: Oc1ccc(cc1)C1(CCCCC1)c1ccc(O)cc1
+Monomer Smiles 2: ClC(/C=C/C(Cl)=O)=O
+ID:P390051
+Name:poly{(bisphenol A)-alt-[4,4'-(1-methylethane-1,1-diyl)dibenzoic acid]}
+Polymer Smiles:CC(C)(c1ccc(cc1)C(*)=O)c1ccc(cc1)C(=O)Oc1ccc(cc1)C(=O)c1ccc(O*)cc1
+Monomer Smiles 1: Oc1ccc(C(c2ccc(O)cc2)=O)cc1
+Monomer Smiles 2: CC(C)(c1ccc(cc1)C(O)=O)c1ccc(cc1)C(O)=O
+ID:P390088
+Name:poly{(nonane-1,9-diamine)-alt-[(E)-oct-4-enedioyl dichloride]}
+Polymer Smiles:*CCCCCCCCCCOC(=O)CCC=CCCC(=O)O*
+Monomer Smiles 1: OCCCCCCCCCO
+Monomer Smiles 2: ClC(=O)CCC=CCCC(Cl)=O
+ID:P390110
+Name:poly[(6-isocyanatohexanoyl chloride)-alt-(cyclohexane-1,4-dimethanol)]
+Polymer Smiles:*CC1CCC(COC(=O)c2cccc(NC(=O)O*)c2)CC1
+Monomer Smiles 1: ClC(C1=CC(N=C=O)=CC=C1)=O
+Monomer Smiles 2: OCC1CCC(CO)CC1
+ID:P390137
+Name:poly[(benzene-1,4-diol)-alt-(m-carborane-1,7-dicarbonyl dichloride)]
+Polymer Smiles:O=C(C1234[BH]567[BH]89%10[BH]5%111[BH]%12%132[BH]%14%15%16[BH]%12%173[BH]6%184[BH]8%197[BH]%18%17%14[BH]%19%159C%16%13%11%10[*])Oc%20ccc(OC([*])=O)cc%20
+Monomer Smiles 1: Oc1ccc(O)cc1
+Monomer Smiles 2: ClC(=O)[C]1234[BH]567[BH]89%10[BH]55%11[BH]88%12[BH]99%13[BH]16%10[BH]291[BH]323[BH]475[BH]%1182[C]%12%1313C(Cl)=O
+ID:P390178
+Name:poly{[5,5'-(p-phenylenedinitrilo)dibarbituric acid]-alt-(terephthaloyl dichloride)}
+Polymer Smiles:O=C(OC1=NC(=O)C(=*)C(=O)N1)c1ccc(cc1)C(=O)OC1=NC(=O)C(=Nc2ccc(cc2)N=*)C(=O)N1
+Monomer Smiles 1: OC1NC(/C(C(N1)=O)=N/c2ccc(/N=C3C(NC(NC\3=O)O)=O)cc2)=O
+Monomer Smiles 2: ClC(=O)c1ccc(cc1)C(Cl)=O
+ID:P390401
+Name:poly({4,4'-[2,2,2-trifluoro-1-(trifluoromethyl)ethane-1,1-diyl]dianiline}-alt-[4,4'-(isophthaloyldioxy)dibenzoyl chloride])
+Polymer Smiles:O=C(c1ccc(O[*])cc1)Nc2ccc(C(c3ccc(NC(c4ccc(OC(c5cc(C([*])=O)ccc5)=O)cc4)=O)cc3)(C(F)(F)F)C(F)(F)F)cc2
+Monomer Smiles 1: Nc1ccc(cc1)C(c1ccc(N)cc1)(C(F)(F)F)C(F)(F)F
+Monomer Smiles 2: ClC(=O)c1ccc(OC(=O)c2cccc(c2)C(=O)Oc2ccc(cc2)C(Cl)=O)cc1
+ID:P390402
+Name:poly({2,2'-dimethyl-4,4'-[2,2,2-trifluoro-1-(trifluoromethyl)ethane-1,1-diyl]dianiline}-alt-[4,4'-(terephthaloyldioxy)dibenzoyl chloride])
+Polymer Smiles:Cc1c(NC(c2ccc(O[*])cc2)=O)cc(C(c3cc(NC(c4ccc(OC(c5ccc(C([*])=O)cc5)=O)cc4)=O)c(C)cc3)(C(F)(F)F)C(F)(F)F)cc1
+Monomer Smiles 1: Cc1ccc(cc1N)C(c1ccc(C)c(N)c1)(C(F)(F)F)C(F)(F)F
+Monomer Smiles 2: ClC(=O)c1ccc(OC(=O)c2ccc(cc2)C(=O)Oc2ccc(cc2)C(Cl)=O)cc1
+ID:P390403
+Name:poly({2,2'-dimethyl-4,4'-[2,2,2-trifluoro-1-(trifluoromethyl)ethane-1,1-diyl]dianiline}-alt-[4,4'-(isophthaloyldioxy)dibenzoyl chloride])
+Polymer Smiles:Cc1c(NC(c2ccc(O[*])cc2)=O)cc(C(c3cc(NC(c4ccc(OC(c5cc(C([*])=O)ccc5)=O)cc4)=O)c(C)cc3)(C(F)(F)F)C(F)(F)F)cc1
+Monomer Smiles 1: Cc1ccc(cc1N)C(c1ccc(C)c(N)c1)(C(F)(F)F)C(F)(F)F
+Monomer Smiles 2: ClC(=O)c1ccc(OC(=O)c2cccc(c2)C(=O)Oc2ccc(cc2)C(Cl)=O)cc1
+ID:P390409
+Name:poly[(3,3',5,5'-tetrabromobiphenyl-4,4'-diol)-alt-(isophthalic acid)]
+Polymer Smiles:BrC1=CC(c2ccc([*])cc2)=CC(Br)=C1OC(c3cc(C(O[*])=O)ccc3)=O
+Monomer Smiles 1: Oc1c(Br)cc(cc1Br)-c1cc(Br)c(O)c(Br)c1
+Monomer Smiles 2: OC(=O)c1cccc(c1)C(O)=O
+ID:P390428
+Name:poly([2,5-bis(p-hydroxybenzylidene)cyclohexanone]-alt-{4,4'-[1,4-phenylene bis(methylidynenitrilo)]dibenzoyl chloride})
+Polymer Smiles:*Oc1ccc(C=C2CCCC(=Cc3ccc(OC(=O)c4ccc(cc4)N=Cc4ccc(C=Nc5ccc(cc5)C(*)=O)cc4)cc3)C2=O)cc1
+Monomer Smiles 1: Oc1ccc(/C=C(CCC/C2=C/c3ccc(O)cc3)\C2=O)cc1
+Monomer Smiles 2: ClC(=O)c1ccc(cc1)N=Cc1ccc(C=Nc2ccc(cc2)C(Cl)=O)cc1
+ID:P390429
+Name:poly([2,5-bis(p-hydroxybenzylidene)cyclohexanone]-alt-{4,4'-[1,4-phenylene bis(methylidynenitrilo)]dibenzoyl chloride})
+Polymer Smiles:COc1cc(C=C2CCCC(=Cc3ccc(OC(=O)c4ccc(cc4)N=Cc4ccc(C=Nc5ccc(cc5)C(*)=O)cc4)c(OC)c3)C2=O)ccc1O*
+Monomer Smiles 1: Oc1ccc(/C=C(CCC/C2=C/c3ccc(O)cc3)/C2=O)cc1
+Monomer Smiles 2: ClC(=O)c1ccc(cc1)N=Cc1ccc(C=Nc2ccc(cc2)C(Cl)=O)cc1
+ID:P392031
+Name:poly{(decane-1,10-diol)-alt-[(E)-oct-4-enedioyl dichloride]}
+Polymer Smiles:*CCCCCCCCCCCCOC(=O)CCC=CCCC(=O)O*
+Monomer Smiles 1: OCCCCCCCCCCCCO
+Monomer Smiles 2: ClC(=O)CCC=CCCC(Cl)=O
+ID:P392036
+Name:poly{[2-(10-{4-[(4-cyanopheny)diazenyl]-2,3,5,6-tetradeuteriophenoxy}decyl)propane-1,3-diol]-alt-(diphenyl tetradecanedioate)}
+Polymer Smiles:*CC(CCCCCCCCCCOc1ccc(cc1)N=Nc1ccc(cc1)C#N)COC(=O)CCCCCCCCCCCCC(=O)O*
+Monomer Smiles 1: N#Cc1ccc(/N=N/c2ccc(OCCCCCCCCCCC(CO)CO)cc2)cc1
+Monomer Smiles 2: O=C(CCCCCCCCCCCCC(=O)Oc1ccccc1)Oc1ccccc1
+ID:P392062
+Name:poly{[2,5-bis(p-hydroxybenzylidene)cyclohexanone]-alt-(4,4'-diazenediyldibenzoyl dichloride)}
+Polymer Smiles:*OC(=O)c1ccc(cc1)N=Nc1ccc(cc1)C(=O)Oc1ccc(C=C2CCCC(=Cc3ccc(*)cc3)C2=O)cc1
+Monomer Smiles 1: Oc1ccc(/C=C(CCC/C2=C/c3ccc(O)cc3)/C2=O)cc1
+Monomer Smiles 2: ClC(=O)c1ccc(cc1)N=Nc1ccc(cc1)C(Cl)=O
+ID:P392193
+Name:poly{[(ethylene glycol)]-alt-[(maleic anhydride)]}
+Polymer Smiles:[*]OCCOC(CCC([*])=O)=O
+Monomer Smiles 1: OCCO
+Monomer Smiles 2: O=C1OC(=O)C=C1
+ID:P392255
+Name:poly({[2,5-bis(4-hydroxybenzylidene)cyclohexanone]}-alt-[(oxalyl dichloride)])
+Polymer Smiles:*OC(=O)C(=O)Oc1ccc(C=C2CCCC(=Cc3ccc(*)cc3)C2=O)cc1
+Monomer Smiles 1: Oc1ccc(/C=C(CCC/C2=C/c3ccc(O)cc3)/C2=O)cc1
+Monomer Smiles 2: ClC(=O)C(Cl)=O
+ID:P392317
+Name:poly{[2,2',6,6'-tetrabromo-4,4'-(4-tert-butylcyclohexane-1,1-diyl)diphenol]-alt-(isophthaloyl dichloride)}
+Polymer Smiles:CC(C)(C)C1CCC(CC1)(c1cc(Br)c(O*)c(Br)c1)c1cc(Br)c(OC(=O)c2ccc(cc2)C(*)=O)c(Br)c1
+Monomer Smiles 1: CC(C)(C)C1CCC(CC1)(c1cc(Br)c(O)c(Br)c1)c1cc(Br)c(O)c(Br)c1
+Monomer Smiles 2: ClC(c1ccc(C(Cl)=O)cc1)=O
+ID:P392344
+Name:poly((propane-1,3-diol)-alt-{4,4'-bis[2-(4-ethoxyphenyl)diazenediyl]biphenyl-2,2'-dicarbonyl dichloride})
+Polymer Smiles:CC(C)(C)C1CCC(CC1)(c1cc(Br)c(O*)c(Br)c1)c1cc(Br)c(OC(=O)c2ccc(cc2)C(*)=O)c(Br)c1
+Monomer Smiles 1: CC(C)(C)C1CCC(CC1)(c1cc(Br)c(O)c(Br)c1)c1cc(Br)c(O)c(Br)c1
+Monomer Smiles 2: ClC(c1cc(/N=N/c2ccc(OCC)cc2)ccc1c3c(C(Cl)=O)cc(/N=N/c4ccc(OCC)cc4)cc3)=O
+ID:P392345
+Name:poly((hexane-1,6-diol)-alt-{4,4'-bis[2-(4-ethoxyphenyl)diazenediyl]biphenyl-2,2'-dicarbonyl dichloride})
+Polymer Smiles:CCOc1ccc(cc1)N=Nc1ccc(c(c1)C(=O)O*)-c1ccc(cc1C(=O)OCCCCCC*)N=Nc1ccc(OCC)cc1
+Monomer Smiles 1: OCCCCCCO
+Monomer Smiles 2: ClC(c1cc(/N=N/c2ccc(OCC)cc2)ccc1c3c(C(Cl)=O)cc(/N=N/c4ccc(OCC)cc4)cc3)=O
+ID:P392346
+Name:poly(hydroquinone-alt-{4,4'-bis[2-(4-ethoxyphenyl)diazenediyl]biphenyl-2,2'-dicarbonyl dichloride})
+Polymer Smiles:CCOc1ccc(cc1)N=Nc1ccc(c(c1)C(*)=O)-c1ccc(cc1C(=O)Oc1ccc(O*)cc1)N=Nc1ccc(OCC)cc1
+Monomer Smiles 1: Oc1ccc(O)cc1
+Monomer Smiles 2: ClC(c1cc(/N=N/c2ccc(OCC)cc2)ccc1c3c(C(Cl)=O)cc(/N=N/c4ccc(OCC)cc4)cc3)=O
+ID:P392347
+Name:poly((biphenyl-4,4'-diol)-alt-{4,4'-bis[2-(4-ethoxyphenyl)diazenediyl]biphenyl-2,2'-dicarbonyl dichloride})
+Polymer Smiles:CCOc1ccc(cc1)N=Nc1ccc(c(c1)C(=O)O*)-c1ccc(cc1C(=O)Oc1ccc(cc1)-c1ccc(*)cc1)N=Nc1ccc(OCC)cc1
+Monomer Smiles 1: Oc1ccc(cc1)-c1ccc(O)cc1
+Monomer Smiles 2: ClC(c1cc(/N=N/c2ccc(OCC)cc2)ccc1c3c(C(Cl)=O)cc(/N=N/c4ccc(OCC)cc4)cc3)=O
+ID:P392348
+Name:poly{[4-(4-nitrophenylazo)-N,N-bis(2-hydroxyethyl)aniline]-alt-[1,4-bis(3-chloroacryloyl)benzene]}
+Polymer Smiles:[O-][N+](=O)c1ccc(cc1)N=Nc1ccc(cc1)N(CCO*)CCOC(=O)C=Cc1ccc(C=CC(*)=O)cc1
+Monomer Smiles 1: OCCN(CCO)c1ccc(cc1)N=Nc1ccc(cc1)[N+]([O-])=O
+Monomer Smiles 2: ClC(/C=C/c1ccc(/C=C/C(Cl)=O)cc1)=O
+ID:P392362
+Name:poly{[3,5-dihydroxy-2-(ethyl{4-[(4-nitrophenyl)diazenyl]phenyl}amino)ethyl benzoate]-alt-(terephthaloyl dichloride)}
+Polymer Smiles:CCN(CCOC(=O)c1cc(O*)cc(OC(=O)c2ccc(cc2)C(*)=O)c1)c1ccc(cc1)N=Nc1ccc(cc1)[N+]([O-])=O
+Monomer Smiles 1: CCN(c1ccc(/N=N/c2ccc([N+]([O-])=O)cc2)cc1)CCOC(c3cc(O)cc(O)c3)=O
+Monomer Smiles 2: ClC(=O)c1ccc(cc1)C(Cl)=O
+ID:P392363
+Name:poly{[3,5-dihydroxy-2-(ethyl{4-[(4-nitrophenyl)diazenyl]phenyl}amino)ethyl benzoate]-alt-[2,5-bis(tetradecyloxy)terephthaloyl dichloride]}
+Polymer Smiles:CCCCCCCCCCCCCCOc1cc(C(=O)Oc2cc(O*)cc(c2)C(=O)OCCN(CC)c2ccc(cc2)N=Nc2ccc(cc2)[N+]([O-])=O)c(OCCCCCCCCCCCCCC)cc1C(*)=O
+Monomer Smiles 1: CCN(c1ccc(/N=N/c2ccc([N+]([O-])=O)cc2)cc1)CCOC(c3cc(O)cc(O)c3)=O
+Monomer Smiles 2: CCCCCCCCCCCCCCOc1cc(C(Cl)=O)c(OCCCCCCCCCCCCCC)cc1C(Cl)=O
+ID:P392370
+Name:poly[[1-bis(2-hydroxyethyl)amino-4-methoxybenzene]-alt-(5-{2-[N-methyl-4-(perfluorooctylsulfonyl)anilino]ethoxy}isophthalic acid)]
+Polymer Smiles:CN(CCOc1cc(cc(c1)C(=O)OCCN(CCO*)c1ccc(cc1)S(=O)(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F)C(*)=O)c1ccc(cc1)S(=O)(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F
+Monomer Smiles 1: COc1ccc(cc1)N(CCO)CCO
+Monomer Smiles 2: OCCN(CCO)c1ccc(S(=O)(C(F)(C(F)(C(F)(C(F)(C(F)(C(F)(C(F)(C(F)(F)F)F)F)F)F)F)F)F)=O)cc1
+ID:P392371
+Name:poly[[1-bis(2-hydroxyethyl)amino-4-methoxybenzene]-alt-(5-{1-[4-(perfluorooctylsulfonyl)phenyl]piperidin-4-oxy}isophthalic acid)]
+Polymer Smiles:FC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)S(=O)(=O)c1ccc(cc1)N(CCO*)CCOC(=O)c1cc(OC2CCN(CC2)c2ccc(cc2)S(=O)(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F)cc(c1)C(*)=O
+Monomer Smiles 1: COc1ccc(cc1)N(CCO)CCO
+Monomer Smiles 2: ClC(c1ccc(C(Cl)=O)cc1)=O
+ID:P392372
+Name:poly[[1-bis(2-hydroxyethyl)amino-4-methoxybenzene]-alt-(5-(2-{1-[4-(perfluorooctylsulfonyl)phenyl]piperidin-4-yl}ethoxy)isophthalic acid)]
+Polymer Smiles:FC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)S(=O)(=O)c1ccc(cc1)N(CCO*)CCOC(=O)c1cc(OCCC2CCN(CC2)c2ccc(cc2)S(=O)(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F)cc(c1)C(*)=O
+Monomer Smiles 1: COc1ccc(cc1)N(CCO)CCO
+Monomer Smiles 2: OCCN(CCO)c1ccc(S(C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F)(=O)=O)cc1
+ID:P392373
+Name:poly[[1-bis(2-hydroxyethyl)amino-4-methoxybenzene]-alt-(5-{2-[N-methyl-4-(octylsulfonyl)anilino]ethoxy}isophthalic acid)]
+Polymer Smiles:CCCCCCCCS(=O)(=O)c1ccc(cc1)N(C)CCOc1cc(cc(c1)C(=O)OCCN(CCO*)c1ccc(cc1)S(=O)(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F)C(*)=O
+Monomer Smiles 1: COc1ccc(cc1)N(CCO)CCO
+Monomer Smiles 2: OCCN(CCO)c1ccc(S(=O)(C(F)(C(F)(C(F)(C(F)(C(F)(C(F)(C(F)(C(F)(F)F)F)F)F)F)F)F)F)=O)cc1
+ID:P392485
+Name:poly[(4,4'-{sulfonylbis[(3-nitro-4,1-phenylene)diazenediyl]}diphenol)-alt-{(Z,Z)-3,3'-[methylenebis(3-nitro-4,1-phenyleneiminocarbonyl)]dipropenoyl dichloride}]
+Polymer Smiles:[O-][N+](=O)c1cc(NC(=O)C=CC(=O)O*)ccc1S(=O)(=O)c1ccc(NC(=O)C=CC(=O)Oc2ccc(cc2)N=Nc2ccc(c(c2)[N+]([O-])=O)S(=O)(=O)c2ccc(cc2[N+]([O-])=O)N=Nc2ccc(*)cc2)cc1[N+]([O-])=O
+Monomer Smiles 1: Oc1ccc(cc1)N=Nc1ccc(c(c1)[N+]([O-])=O)S(=O)(=O)c1ccc(cc1[N+]([O-])=O)N=Nc1ccc(O)cc1
+Monomer Smiles 2: [O-][N+](c1c(S(c2c([N+]([O-])=O)cc(NC(/C=C/C(Cl)=O)=O)cc2)(=O)=O)ccc(NC(/C=C/C(Cl)=O)=O)c1)=O
+ID:P392496
+Name:poly[(4-{[(4-nitrophenyl)imino]methyl}resorcinol)-alt-(isophthaloyl dichloride)]
+Polymer Smiles:O=C(c1cc(C([*])=O)ccc1)Oc2cc(O[*])c(/C=N/c3ccc([N+]([O-])=O)cc3)cc2
+Monomer Smiles 1: Oc1ccc(C=Nc2ccc(cc2)[N+]([O-])=O)c(O)c1
+Monomer Smiles 2: ClC(=O)c1cccc(c1)C(Cl)=O
+ID:P392502
+Name:poly[(3,3'-dimethylbiphenyl-4,4'-diol)-alt-(2,5-biphenyldicarbonyl dichloride)]
+Polymer Smiles:Cc1cc(*)ccc1-c1ccc(OC(=O)c2ccc(C(=O)O*)c(c2)-c2ccccc2)cc1C
+Monomer Smiles 1: Oc1cc(C)c(c2c(C)cc(O)cc2)cc1
+Monomer Smiles 2: ClC(=O)c1ccc(C(Cl)=O)c(c1)-c1ccccc1
+ID:P400029
+Name:poly{(heptane-1,7-diamine)-alt-[1,6-bis(chloroformyl)1,5-hexadiene]}
+Polymer Smiles:*CC1CCC(CNC(=O)CCCCCCCCC(=O)NCC2CCC(CNC(=O)C(=O)N*)CC2)CC1
+Monomer Smiles 1: NCC1CCC(CC1)CN
+Monomer Smiles 2: O=C(Cl)CCCCCCCCC(Cl)=O
+ID:P400047
+Name:poly[(p-phenylenediamine)-alt-(terephthaloyl dichloride)]
+Polymer Smiles:CCN(*)CCN(CC)C(=O)c1ccc(cc1)C(*)=O
+Monomer Smiles 1: CCNCCNCC
+Monomer Smiles 2: ClC(=O)c1ccc(cc1)C(Cl)=O
+ID:P400108
+Name:poly{(decane-1,10-diamine)-alt-[2,6-bis(chloroformyl)-4-hydroxypyridine]}
+Polymer Smiles:OC(=O)c1cc(ccc1C(*)=O)C(=O)c1ccc(C(=O)Nc2ccc(cc2)-c2ccc(N*)cc2)c(c1)C(O)=O
+Monomer Smiles 1: Nc1ccc(c2ccc(N)cc2)cc1
+Monomer Smiles 2: ClC(c1c(C(O)=O)cc(C(Cl)=O)cc1)=O
+ID:P400219
+Name:poly[(m-phenylenediamine)-alt-(isophthaloyl dichloride)]
+Polymer Smiles:CN(*)c1cccc(c1)N(C)C(=O)c1cccc(c1)C(*)=O
+Monomer Smiles 1: CNc1cc(NC)ccc1
+Monomer Smiles 2: ClC(=O)c1cccc(c1)C(Cl)=O
+ID:P400220
+Name:poly[(4-chloro-m-phenylenediamine)-alt-(isophthaloyl dichloride)]
+Polymer Smiles:CN(*)c1ccc(Cl)c(c1)N(C)C(=O)c1cccc(c1)C(*)=O
+Monomer Smiles 1: Clc1c(NC)cc(NC)cc1
+Monomer Smiles 2: ClC(=O)c1cccc(c1)C(Cl)=O
+ID:P400221
+Name:poly[(m-phenylenediamine)-alt-(terephthaloyl dichloride)]
+Polymer Smiles:CN(*)c1cccc(c1)N(C)C(=O)c1ccc(cc1)C(*)=O
+Monomer Smiles 1: CNc1cc(NC)ccc1
+Monomer Smiles 2: ClC(=O)c1ccc(cc1)C(Cl)=O
+ID:P400222
+Name:poly[(4-chloro-m-phenylenediamine)-alt-(terephthaloyl dichloride)]
+Polymer Smiles:CN(*)c1cc(ccc1Cl)N(C)C(=O)c1ccc(cc1)C(*)=O
+Monomer Smiles 1: Clc1c(NC)cc(NC)cc1
+Monomer Smiles 2: ClC(=O)c1ccc(cc1)C(Cl)=O
+ID:P400252
+Name:poly{[3,3'-(ethyne-1,2-diyl)dianiline]-alt-(isophthaloyl dichloride)}
+Polymer Smiles:*NC(=O)c1cccc(c1)C(=O)Nc1ccc(cc1)C#Cc1ccc(*)cc1
+Monomer Smiles 1: Nc1ccc(C#Cc2ccc(N)cc2)cc1
+Monomer Smiles 2: ClC(=O)c1cccc(c1)C(Cl)=O
+ID:P400255
+Name:poly{[3,3'-(ethyne-1,2-diyl)dianiline]-alt-(terephthaloyl dichloride)}
+Polymer Smiles:*NC(=O)c1ccc(cc1)C(=O)Nc1ccc(cc1)C#Cc1ccc(*)cc1
+Monomer Smiles 1: Nc1ccc(C#Cc2ccc(N)cc2)cc1
+Monomer Smiles 2: ClC(=O)c1ccc(cc1)C(Cl)=O
+ID:P400337
+Name:poly[[2-((methyl){4-[(1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,8-heptadecafluorooctyl)sulfonyl]phenyl}amino)ethyl 3,5-diaminobenzoate]-alt-(5-[2-((methyl){4-[(1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,8-heptadecafluorooctyl)sulfonyl]phenyl}amino)ethoxy]isophthalic acid)]
+Polymer Smiles:CN(CCOC(c1cc(NC(c2cc(C([*])=O)cc(OCCN(c3ccc(S(=O)(C(F)(C(F)(C(F)(C(F)(C(F)(C(F)(C(F)(C(F)(F)F)F)F)F)F)F)F)F)=O)cc3)C)c2)=O)cc(N[*])c1)=O)c4ccc(S(=O)(C(F)(C(F)(C(F)(C(F)(C(F)(C(F)(C(F)(C(F)(F)F)F)F)F)F)F)F)F)=O)cc4
+Monomer Smiles 1: CN(CCOC(=O)c1cc(N)cc(N)c1)c1ccc(cc1)S(=O)(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F
+Monomer Smiles 2: CN(CCOc1cc(cc(c1)C(O)=O)C(O)=O)c1ccc(cc1)S(=O)(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F
+ID:P400355
+Name:poly{(hexane-1,6-diamine)-alt-[2-(4-chlorophenoxy)terephthaloyl dichloride]}
+Polymer Smiles:Fc1ccc(Oc2cc(ccc2C(=O)N*)C(=O)NCCCCCC*)cc1
+Monomer Smiles 1: NCCCCCCN
+Monomer Smiles 2: ClC(c1cc(Oc2ccc(F)cc2)c(C(Cl)=O)cc1)=O
+ID:P402056
+Name:poly{[3,3'-(3-oxopent-1,4-diene-1,4-diyl)dianiline]-alt-(fumaric acid)}
+Polymer Smiles:*NC(=O)C=CC(=O)Nc1cccc(C=CC(=O)C=Cc2cccc(*)c2)c1
+Monomer Smiles 1: Nc1cc(/C=C/C(/C=C/c2cc(N)ccc2)=O)ccc1
+Monomer Smiles 2: OC(=O)C=CC(O)=O
+ID:P402057
+Name:poly{[3,3'-(3-oxopent-1,4-diene-1,4-diyl)dianiline]-alt-(isophthalic acid)}
+Polymer Smiles:*NC(=O)c1cccc(c1)C(=O)Nc1cccc(C=CC(=O)C=Cc2cccc(*)c2)c1
+Monomer Smiles 1: Nc1cc(/C=C/C(/C=C/c2cc(N)ccc2)=O)ccc1
+Monomer Smiles 2: OC(=O)c1cccc(c1)C(O)=O
+ID:P402058
+Name:poly{[3,3'-(3-oxopent-1,4-diene-1,4-diyl)dianiline]-alt-(terephthalic acid)}
+Polymer Smiles:*NC(=O)c1ccc(cc1)C(=O)Nc1cccc(C=CC(=O)C=Cc2cccc(*)c2)c1
+Monomer Smiles 1: Nc1cc(/C=C/C(/C=C/c2cc(N)ccc2)=O)ccc1
+Monomer Smiles 2: OC(=O)c1ccc(cc1)C(O)=O
+ID:P402069
+Name:poly[(3,3'-dimethylbiphenyl-4,4'-dicarboxylic acid)-alt-(4,4'-methylenedianiline)]
+Polymer Smiles:CC1(C)CC(=CC=C1C(=O)Nc1ccc(Cc2ccc(N*)cc2)cc1)c1ccc(cc1)C(*)=O
+Monomer Smiles 1: O=C(Nc1ccc(Cc2ccc(N[*])cc2)cc1)C3=CC=C(c4cc(C)c(C([*])=O)cc4)C=C3C
+Monomer Smiles 2: Nc1ccc(Cc2ccc(N)cc2)cc1
+ID:P402072
+Name:poly[(3,3'-dimethylbiphenyl-4,4'-dicarboxylic acid)-alt-(3,3'-sulfonyldianiline)]
+Polymer Smiles:O=C(Nc1cc(S([*])(=O)=O)ccc1)C2=CC=C(c3ccc(C(Nc4cc([*])ccc4)=O)cc3)C=C2
+Monomer Smiles 1: Cc1cc(ccc1C(O)=O)-c1ccc(C(O)=O)c(C)c1
+Monomer Smiles 2: Nc1cccc(c1)S(=O)(=O)c1cccc(N)c1
+ID:P402212
+Name:poly[(2,2'-{[4-(4-nitrostyryl)phenyl]imino}ethanamine)-alt-[4,4'-(dimethylsilanediyl)dibenzoyl dichloride]]
+Polymer Smiles:C[Si](C)(c1ccc(cc1)C(=O)NCC*)c1ccc(cc1)C(=O)NCCN(*)c1ccc(C=Cc2ccc(cc2)[N+]([O-])=O)cc1
+Monomer Smiles 1: NCCN(c1ccc(/C=C/c2ccc([N+]([O-])=O)cc2)cc1)CCN
+Monomer Smiles 2: C[Si](C)(c1ccc(cc1)C(Cl)=O)c1ccc(cc1)C(Cl)=O
+ID:P402213
+Name:poly[(2,2'-{[4-(4-nitrostyryl)phenyl]imino}ethanamine)-alt-[4,4'-(dibutylsilanediyl)dibenzoyl dichloride]]
+Polymer Smiles:CCCC[Si](CCCC)(c1ccc(cc1)C(=O)NCC*)c1ccc(cc1)C(=O)NCCN(*)c1ccc(C=Cc2ccc(cc2)[N+]([O-])=O)cc1
+Monomer Smiles 1: NCCN(c1ccc(/C=C/c2ccc([N+]([O-])=O)cc2)cc1)CCN
+Monomer Smiles 2: CCCC[Si](CCCC)(c1ccc(cc1)C(Cl)=O)c1ccc(cc1)C(Cl)=O
+ID:P402214
+Name:poly[(2,2'-{[4-(4-nitrostyryl)phenyl]imino}ethanamine)-alt-[4,4'-(dimethylsilanediyl)dibenzoyl dichloride]]
+Polymer Smiles:[O-][N+](=O)c1ccc(C=Cc2ccc(cc2)N(*)CCNC(=O)c2ccc(cc2)[Si](c2ccccc2)(c2ccccc2)c2ccc(cc2)C(=O)NCC*)cc1
+Monomer Smiles 1: NCCN(c1ccc(/C=C/c2ccc([N+]([O-])=O)cc2)cc1)CCN
+Monomer Smiles 2: ClC(c1ccc([Si](C2=CC=CC=C2)(c3ccc(C(Cl)=O)cc3)C4=CC=CC=C4)cc1)=O
+ID:P402244
+Name:poly({4,4'-[bis(2-oxodibenzo[c,e][1,2]oxaphoshinin-2-yl)methylene]dianiline}-alt-(isophthalic acid))
+Polymer Smiles:*Nc1ccc(cc1)C(c1ccc(NC(=O)c2cccc(c2)C(*)=O)cc1)([p]1(=O)oc2ccccc2c2ccccc12)[p]1(=O)oc2ccccc2c2ccccc12
+Monomer Smiles 1: Nc1ccc(C(p(=O)(oc2c3cccc2)c4c3cccc4)(p(=O)(oc5c6cccc5)c7c6cccc7)c8ccc(N)cc8)cc1
+Monomer Smiles 2: OC(=O)c1cccc(c1)C(O)=O
+ID:P402245
+Name:poly({4,4'-[bis(2-oxodibenzo[c,e][1,2]oxaphoshinin-2-yl)methylene]dianiline}-alt-(terephthalic acid))
+Polymer Smiles:*Nc1ccc(cc1)C(c1ccc(NC(=O)c2ccc(cc2)C(*)=O)cc1)([p]1(=O)oc2ccccc2c2ccccc12)[p]1(=O)oc2ccccc2c2ccccc12
+Monomer Smiles 1: Nc1ccc(C(p(=O)(oc2c3cccc2)c4c3cccc4)(p(=O)(oc5c6cccc5)c7c6cccc7)c8ccc(N)cc8)cc1
+Monomer Smiles 2: OC(=O)c1ccc(cc1)C(O)=O
+ID:P402246
+Name:poly({4,4'-[bis(2-oxodibenzo[c,e][1,2]oxaphoshinin-2-yl)methylene]dianiline}-alt-{4,4'-[1-(trifluoromethyl)-2,2,2-trifluoroethane-1,1-diyl]dibenzoic acid})
+Polymer Smiles:[*]C(c1ccc(C(c2ccc(C(Nc3ccc(C(p(=O)(oc4c5cccc4)c6c5cccc6)(p(=O)(oc7c8cccc7)c9c8cccc9)c%10ccc(N[*])cc%10)cc3)=O)cc2)(C(F)(F)F)C(F)(F)F)cc1)=O
+Monomer Smiles 1: Nc1ccc(C(p(=O)(oc2c3cccc2)c4c3cccc4)(p(=O)(oc5c6cccc5)c7c6cccc7)c8ccc(N)cc8)cc1
+Monomer Smiles 2: OC(=O)c1ccc(cc1)C(c1ccc(cc1)C(O)=O)(C(F)(F)F)C(F)(F)F
+ID:P402247
+Name:poly({4,4'-[bis(2-oxodibenzo[c,e][1,2]oxaphoshinin-2-yl)methylene]dianiline}-alt-(5-tert-butylisophthalic acid))
+Polymer Smiles:CC(C)(C)c1cc(cc(c1)C(=O)Nc1ccc(cc1)C(c1ccc(N*)cc1)([p]1(=O)oc2ccccc2c2ccccc12)[p]1(=O)oc2ccccc2c2ccccc12)C(*)=O
+Monomer Smiles 1: Nc1ccc(C(p(=O)(oc2c3cccc2)c4c3cccc4)(p(=O)(oc5c6cccc5)c7c6cccc7)c8ccc(N)cc8)cc1
+Monomer Smiles 2: CC(C)(C)c1cc(cc(c1)C(O)=O)C(O)=O
+ID:P402248
+Name:poly({4,4'-[bis(2-oxodibenzo[c,e][1,2]oxaphoshinin-2-yl)methylene]dianiline}-alt-(biphenyl-4,4'-dicarboxylic acid))
+Polymer Smiles:*Nc1ccc(cc1)C(c1ccc(NC(=O)c2ccc(cc2)-c2ccc(cc2)C(*)=O)cc1)([p]1(=O)oc2ccccc2c2ccccc12)[p]1(=O)oc2ccccc2c2ccccc12
+Monomer Smiles 1: Nc1ccc(C(p(=O)(oc2c3cccc2)c4c3cccc4)(p(=O)(oc5c6cccc5)c7c6cccc7)c8ccc(N)cc8)cc1
+Monomer Smiles 2: OC(=O)c1ccc(cc1)-c1ccc(cc1)C(O)=O
+ID:P412018
+Name:poly[(4-aminophenol)-alt-(2,4-diisocyanatotoluene)]
+Polymer Smiles:CC1(C)CC(CC(C)(C1)NC(=O)O*)NC(=O)Nc1ccc(*)cc1
+Monomer Smiles 1: Nc1ccc(O)cc1
+Monomer Smiles 2: O=C=NC1(C)CC(N=C=O)CC(C)(C)C1
+ID:P422003
+Name:poly[(heptane-1,7-diamine)-alt-(carbon disulfide)]
+Polymer Smiles:S=C(N[*])NCCCCCCC[*]
+Monomer Smiles 1: NCCCCCCCN
+Monomer Smiles 2: S=C=S
+ID:P422004
+Name:poly[(nonane-1,9-diamine)-alt-(carbon disulfide)]
+Polymer Smiles:S=C(N[*])NCCCCCCCCC[*]
+Monomer Smiles 1: NCCCCCCCCCN
+Monomer Smiles 2: S=C=S
+ID:P422010
+Name:poly[(4-amino-3-methylphenol)-alt-(2,4-diisocyanatotoluene)]
+Polymer Smiles:Cc1c(NC([*])=O)cc(NC(Oc2cc(C)c(N[*])cc2)=O)cc1
+Monomer Smiles 1: Cc1cc(O)ccc1N
+Monomer Smiles 2: Cc1ccc(cc1N=C=O)N=C=O
+ID:P430039
+Name:poly((4,5-diaminobenzoic acid)-alt-{5,5'-[2,2,2-trifluoro-1-(trifluoromethyl)ethane-1,1-diyl]bis(isobenzofuran-1,3-dione)})
+Polymer Smiles:OC(=O)c1cc(*)cc(c1)N1C(=O)c2ccc(cc2C1=O)C(c1ccc2C(=O)N(*)C(=O)c2c1)(C(F)(F)F)C(F)(F)F
+Monomer Smiles 1: Nc1cc(N)cc(C(O)=O)c1
+Monomer Smiles 2: FC(F)(F)C(c1ccc2C(=O)OC(=O)c2c1)(c1ccc2C(=O)OC(=O)c2c1)C(F)(F)F
+ID:P430168
+Name:poly{hydroquinone-alt-[4-(4-fluorobenzoyl)-N-(4-hydroxyphenyl)phthalimide]}
+Polymer Smiles:*C(=O)c1ccc(Oc2ccc(Oc3ccc(cc3)C(=O)c3ccc4C(=O)N(C(=O)c4c3)c3ccc(cc3)N3C(=O)c4ccc(*)cc4C3=O)cc2)cc1
+Monomer Smiles 1: Oc1ccc(O)cc1
+Monomer Smiles 2: O=C(c1c(C2=O)cc(C(c3ccc(F)cc3)=O)cc1)N2c4ccc(N5C(c6c(C5=O)cc(C(c7ccc(F)cc7)=O)cc6)=O)cc4
+ID:P430177
+Name:poly((4,4'-sulfonyldiphenol)-alt-{4,4'-bis(4-fluorobenzoyl)-N,N'-[oxybis(4,1-phenylene)]diphthalimide})
+Polymer Smiles:CC(C)(c1ccc(Oc2ccc(cc2)C(*)=O)cc1)c1ccc(Oc2ccc(cc2)C(=O)c2ccc3C(=O)N(C(=O)c3c2)c2ccc(Oc3ccc(cc3)N3C(=O)c4ccc(*)cc4C3=O)cc2)cc1
+Monomer Smiles 1: Oc1ccc(C(C)(c2ccc(O)cc2)C)cc1
+Monomer Smiles 2: Fc1ccc(cc1)C(=O)c1ccc2C(=O)N(C(=O)c2c1)c1ccc(Oc2ccc(cc2)N2C(=O)c3ccc(cc3C2=O)C(=O)c2ccc(F)cc2)cc1
+ID:P430490
+Name:poly([4,4'-oxybis(ethyleneoxyethyleneoxy)dianiline]-alt-{2,7-bis[4-(5-carboxy-1,3-dioxo-1,3-dihydro-2H-isoindol-2-yl)phenoxy]naphthalene})
+Polymer Smiles:O=C(NC(C=C1)=CC=C1C(S2)=C(C3=CC=CC=C3)C(C4=CC=CC=C4)=C2C5=CC=C(N[*])C=C5)c6cc7c(C(N(c8ccc(Oc(cc9)cc%10c9ccc(Oc%11ccc(N%12C(c%13c(C%12=O)cc(C([*])=O)cc%13)=O)cc%11)c%10)cc8)C7=O)=O)cc6�
+Monomer Smiles 1: NC1=CC=C(C2=C(C3=CC=CC=C3)C(C4=CC=CC=C4)=C(C5=CC=C(N)C=C5)S2)C=C1
+Monomer Smiles 2: OC(=O)c1ccc2C(=O)N(C(=O)c2c1)c1ccc(Oc2ccc3ccc(Oc4ccc(cc4)N4C(=O)c5ccc(cc5C4=O)C(O)=O)cc3c2)cc1
+ID:P432034
+Name:poly[(sodium 2,5-diaminobenzenesulfonate)-alt-(benzo[1,2-c4,5-c']difuran-1,3,5,7-tetraone)]
+Polymer Smiles:[Na+].S([O-])(=O)(=O)c1cc(*)ccc1-n1c(=O)c2cc3c(cc2c1=O)c(=O)n(*)c3=O
+Monomer Smiles 1: [Na+].Nc1ccc(N)c(c1)S([O-])(=O)=O
+Monomer Smiles 2: O=c1oc(=O)c2cc3c(cc12)c(=O)oc3=O
+ID:P432035
+Name:poly[(disodium 4,4'-diaminostilbene-2,2'-disulfonate)-alt-(benzo[1,2-c4,5-c']difuran-1,3,5,7-tetraone)]
+Polymer Smiles:[Na+]S([O-])(=O)(=O)c1cc(*)ccc1C=Cc1ccc(cc1S(=O)(=O)([O-])[Na+])-n1c(=O)c2cc3c(cc2c1=O)c(=O)n(*)c3=O
+Monomer Smiles 1: [Na+].[Na+].Nc1ccc(C=Cc2ccc(N)cc2S([O-])(=O)=O)c(c1)S([O-])(=O)=O
+Monomer Smiles 2: O=c1oc(=O)c2cc3c(cc12)c(=O)oc3=O
+ID:P432080
+Name:poly{(methylhydroquinone diacetate)-alt-[2,6-bis(5-carboxypentyl)-1,3,5,7-tetraoxobenzo[1,2-c4,5-c']dipyrrolidine]}
+Polymer Smiles:Clc1cc(OC(=O)CCCCC*)ccc1OC(=O)CCCCCn1c(=O)c2cc3c(cc2c1=O)c(=O)n(*)c3=O
+Monomer Smiles 1: CC(Oc1cc(Cl)c(OC(C)=O)cc1)=O
+Monomer Smiles 2: OC(=O)CCCCCn1c(=O)c2cc3c(cc2c1=O)c(=O)n(CCCCCC(O)=O)c3=O
+ID:P432133
+Name:poly{[3-amino-5-(pentafluoro-lamda6-sulfanyl)phenylamine]-alt-[5,5'-thiobis(4,1-phenyleneoxy)bis(isobenzofuran-1,3-dione)]}
+Polymer Smiles:[*]c1cc(N2C(c3c(C2=O)cc(Oc4ccc(Sc5ccc(Oc6cc7c(C(N(C7=O)[*])=O)cc6)cc5)cc4)cc3)=O)cc(S(F)(F)(F)(F)F)c1
+Monomer Smiles 1: Nc1cc(N)cc(c1)S(F)(F)(F)(F)F
+Monomer Smiles 2: O=C1OC(=O)c2cc(Oc3ccc(Sc4ccc(Oc5ccc6C(=O)OC(=O)c6c5)cc4)cc3)ccc12
+ID:P432137
+Name:poly{[5-(pentafluoro-lamda6-sulfanyl)-1,3-phenylenediamine]-alt-[5,5'-(hexafluoropropane-2,2-diyl)bis(p-phenyleneoxy)bis(isobenzofuran-1,3-dione)]}
+Polymer Smiles:O=C(N(C1=O)[*])c2c1cc(Oc3ccc(C(c4ccc(Oc5cc6c(C(N(c7cc([*])cc(S(F)(F)(F)(F)F)c7)C6=O)=O)cc5)cc4)(C(F)(F)F)C(F)(F)F)cc3)cc2
+Monomer Smiles 1: Nc1cc(N)cc(c1)S(F)(F)(F)(F)F
+Monomer Smiles 2: FC(F)(F)C(c1ccc(Oc2ccc3C(=O)OC(=O)c3c2)cc1)(c1ccc(Oc2ccc3C(=O)OC(=O)c3c2)cc1)C(F)(F)F
+ID:P432142
+Name:poly{[bis(3-aminophenyl)methanol]-alt-[5,5'-carbonylbis(isobenzofuran-1,3-dione)]}
+Polymer Smiles:C[Si](C)(O[Si](C)(O[Si](C)(OC(C1=CC([*])=CC=C1)c2cc(C3C(c4c(C3=O)cc(C(c5cc6c(C(N(C6=O)[*])=O)cc5)=O)cc4)=O)ccc2)C)C)C�
+Monomer Smiles 1: Nc1cc(C(O[Si](C)(C)O[Si](C)(C)O[Si](C)(C)C)c2cc(N)ccc2)ccc1
+Monomer Smiles 2: O=C(c1ccc2C(=O)OC(=O)c2c1)c1ccc2C(=O)OC(=O)c2c1
+ID:P432144
+Name:poly{[bis(3-aminophenyl)methanol]-alt-[4,4'-(hexafluoroisopropylidene)bis(phthalic anhydride)]}
+Polymer Smiles:C[Si](C)(O[Si](C)(O[Si](C)(OC(C1=CC([*])=CC=C1)c2cc(N3C(c4c(C3=O)cc(C(C(F)(F)F)(C(F)(F)F)c5cc6c(C(N(C6=O)[*])=O)cc5)cc4)=O)ccc2)C)C)C
+Monomer Smiles 1: Nc1cc(C(O[Si](C)(C)O[Si](C)(C)O[Si](C)(C)C)c2cc(N)ccc2)ccc1
+Monomer Smiles 2: FC(F)(F)C(c1ccc2C(=O)OC(=O)c2c1)(c1ccc2C(=O)OC(=O)c2c1)C(F)(F)F
+ID:P432166
+Name:poly({3,3',4,4'-tetrachloro-N,N'-[oxybis(4,1-phenylene)]dimaleimide}-alt-{4,4'-[2,2,2-trifluoro-1-(trifluoromethyl)ethane-1,1-diyl]diphenol})
+Polymer Smiles:ClC(C(N(C1=O)[*])=O)=C1Oc2ccc(C(c3ccc(OC4=C(C(N(c5ccc(Oc6ccc([*])cc6)cc5)C4=O)=O)Cl)cc3)(C(F)(F)F)C(F)(F)F)cc2
+Monomer Smiles 1: ClC1=C(Cl)C(=O)N(C1=O)c1ccc(Oc2ccc(cc2)N2C(=O)C(Cl)=C(Cl)C2=O)cc1
+Monomer Smiles 2: Oc1ccc(cc1)C(c1ccc(O)cc1)(C(F)(F)F)C(F)(F)F
+ID:P432169
+Name:poly{(disodium 4,4'-diaminostilbene-2,2'-disulfonate)-alt-[5,5'-carbonylbis(isobenzofuran-1,3-dione)]}
+Polymer Smiles:[Na+].S([O-])(=O)(=O)c1cc(*)ccc1C=Cc1ccc(cc1S(=O)(=O)([O-])[Na+].)N1C(=O)c2ccc(cc2C1=O)C(=O)c1ccc2C(=O)N(*)C(=O)c2c1
+Monomer Smiles 1: [Na+].[Na+].Nc1ccc(C=Cc2ccc(N)cc2S([O-])(=O)=O)c(c1)S([O-])(=O)=O
+Monomer Smiles 2: O=C(c1ccc2C(=O)OC(=O)c2c1)c1ccc2C(=O)OC(=O)c2c1
+ID:P432170
+Name:poly{(sodium 2,5-diaminobenzenesulfonate)-alt-[5,5'-carbonylbis(isobenzofuran-1,3-dione)]}
+Polymer Smiles:[Na+].S([O-])(=O)(=O)c1cc(*)ccc1N1C(=O)c2ccc(cc2C1=O)C(=O)c1ccc2C(=O)N(*)C(=O)c2c1
+Monomer Smiles 1: [Na+].Nc1ccc(N)c(c1)S([O-])(=O)=O
+Monomer Smiles 2: O=C(c1ccc2C(=O)OC(=O)c2c1)c1ccc2C(=O)OC(=O)c2c1
+ID:P432194
+Name:poly([1,1',3,3'-dioxo-2,2'-(2,4,6-trimethyl-1,3-phenylene)bis(isoindoline-5-carboxylic acid)]-alt-{4,4'-[2,2,2-trifluoro-1-(trifluoromethyl)ethane-1,1-diyl]dianiline})
+Polymer Smiles:Cc1c(N2C(c3c(C2=O)cc([*])cc3)=O)c(C)c(N4C(c5c(C4=O)cc(C(Nc6ccc(C(c7ccc(NC([*])=O)cc7)(C(F)(F)F)C(F)(F)F)cc6)=O)cc5)=O)c(C)c1
+Monomer Smiles 1: Cc1cc(C)c(N2C(=O)c3ccc(cc3C2=O)C(O)=O)c(C)c1N1C(=O)c2ccc(cc2C1=O)C(O)=O
+Monomer Smiles 2: Nc1ccc(cc1)C(c1ccc(N)cc1)(C(F)(F)F)C(F)(F)F
+ID:P432210
+Name:oxidized, functionalized poly[{[4,4'-(1,4-phenylenedisulfanediyl)dianiline]}-alt-({5,5'-[bis(trifluoromethyl)methylene]diisobenzofuran-1,3-dione})]
+Polymer Smiles:FC(F)(F)C(c1ccc2C(=O)N(*)C(=O)c2c1)(c1ccc2C(=O)N(C(=O)c2c1)c1ccc(cc1)S(=O)(=O)c1ccc(cc1)S(=O)(=O)c1ccc(*)cc1)C(F)(F)F
+Monomer Smiles 1: Nc1ccc(S(c2ccc(S(c3ccc(N)cc3)(=O)=O)cc2)(=O)=O)cc1
+Monomer Smiles 2: FC(F)(F)C(c1ccc2C(=O)OC(=O)c2c1)(c1ccc2C(=O)OC(=O)c2c1)C(F)(F)F
+ID:P432211
+Name:oxidized, functionalized poly[({4,4'-[sulfanediylbis(4,1-phenylenesulfanediyl)]dianiline})-alt-({5,5'-[bis(trifluoromethyl)methylene]diisobenzofuran-1,3-dione})]
+Polymer Smiles:FC(F)(F)C(c1ccc2C(=O)N(*)C(=O)c2c1)(c1ccc2C(=O)N(C(=O)c2c1)c1ccc(cc1)S(=O)(=O)c1ccc(cc1)S(=O)(=O)c1ccc(cc1)S(=O)(=O)c1ccc(*)cc1)C(F)(F)F
+Monomer Smiles 1: Nc1ccc(S(c2ccc(S(c3ccc(S(c4ccc(N)cc4)(=O)=O)cc3)(=O)=O)cc2)(=O)=O)cc1
+Monomer Smiles 2: FC(F)(F)C(c1ccc2C(=O)OC(=O)c2c1)(c1ccc2C(=O)OC(=O)c2c1)C(F)(F)F
+ID:P432314
+Name:poly[(3,3'-dimethoxybenzidine)-alt-(pyromellitic anhydride)]
+Polymer Smiles:COc1cc(*)ccc1-c1ccc(cc1OC)-n1c(=O)c2cc3c(cc2c1=O)c(=O)n(*)c3=O
+Monomer Smiles 1: Nc1cc(OC)c(c2ccc(N)cc2OC)cc1
+Monomer Smiles 2: O=c1oc(=O)c2cc3c(cc12)c(=O)oc3=O
+ID:P432334
+Name:poly([4,4'-(hexafluoroisopropylidene)bis(phthalic anhydride)]-alt-{4,4'-[(phenylimino)bis(ethyleneoxy)]dianiline})
+Polymer Smiles:FC(F)(F)C(c1ccc2C(=O)N(*)C(=O)c2c1)(c1ccc2C(=O)N(C(=O)c2c1)c1ccc(OCCN(CCOc2ccc(*)cc2)c2ccc(cc2)C(C#N)=C(C#N)C#N)cc1)C(F)(F)F
+Monomer Smiles 1: FC(F)(F)C(c1ccc2C(=O)OC(=O)c2c1)(c1ccc2C(=O)OC(=O)c2c1)C(F)(F)F
+Monomer Smiles 2: Nc1ccc(OCCN(c2ccc(/C(C#N)=C(C#N)\C#N)cc2)CCOc3ccc(N)cc3)cc1
+ID:P432398
+Name:poly({4,4'-[1-(trifluoromethyl)-2,2,2-trifluoroethane-1,1-diylbis(4,1-phenyleneoxy)]dianiline}-alt-{5,5'-[2,2,2-trifluoro-1-(trifluoromethyl)ethane-1,1-diyl]bis(isobenzofuran-1,3-dione)})
+Polymer Smiles:CC([*])(c1cc2c(C(N(c3ccc(C(c4ccc(C#Cc5ccccc5)cc4)(c6ccc(N7C(c8c(C7=O)cc([*])cc8)=O)cc6)C(F)(F)F)cc3)C2=O)=O)cc1)C
+Monomer Smiles 1: Nc1ccc(Oc2ccc(C(C(F)(F)F)(C3=CC=C(C#CC4=CC=CC=C4)C=C3)c5ccc(Oc6ccc(N)cc6)cc5)cc2)cc1
+Monomer Smiles 2: FC(F)(F)C(c1ccc2C(=O)OC(=O)c2c1)(c1ccc2C(=O)OC(=O)c2c1)C(F)(F)F
+ID:P432429
+Name:poly{(3,5-diaminobenzoic acid)-alt-[4-(2,5-dioxotetrahydrofuran-3-yl)-tetralin-1,2-dicarboxylic anhydride]}
+Polymer Smiles:O=c1n(c2ccc(c3ccc(c4ccc([*])cc4)cc3)cc2)c(c5c1c(C(F)(F)F)c(c(c5)c(=O)n6[*])c6=O)=O
+Monomer Smiles 1: Nc1cc(N)cc(c1)C(O)=O
+Monomer Smiles 2: O=C1CC(C2CC3C(C(=O)OC3=O)c3ccccc23)C(=O)O1
+ID:P432436
+Name:poly({3,3'-[[6,6'-bibenzoxazole]-2,2'-diylbis(4,1-phenyleneoxy)]dianiline}-alt-(benzo[1,2-c4,5-c']difuran-1,3,5,7-tetraone))
+Polymer Smiles:O=c(n1c2ccc(Oc3ccc(c4oc5cc(c6cc7oc([*])nc7cc6)ccc5n4)cc3)cc2)c(cc(c(c8)c(=O)n9c%10ccc(Oc%11cc([*])ccc%11)cc%10)c9=O)c8c1=O
+Monomer Smiles 1: Nc1cccc(Oc2ccc(cc2)-c2nc3ccc(cc3o2)-c2ccc3nc(oc3c2)-c2ccc(Oc3cccc(N)c3)cc2)c1
+Monomer Smiles 2: O=c1oc(=O)c2cc3c(cc12)c(=O)oc3=O
+ID:P432456
+Name:poly{{4,4'-[2,2,2-trifluoro-1-(trifluoromethyl)ethane-1,1-diyl]dianiline}-alt-[9,9-bis(trifluoromethyl)xanthenetetracarboxylic dianhydride]}
+Polymer Smiles:[*]c1ccc(C(c2ccc(n(c(=O)c(c3)c4cc5c3oc(cc(c(c6)c(=O)n7[*])c7=O)c6c(C(F)(F)F)5C(F)(F)F)c4=O)cc2)(C(F)(F)F)C(F)(F)F)cc1
+Monomer Smiles 1: Nc1ccc(cc1)C(c1ccc(N)cc1)(C(F)(F)F)C(F)(F)F
+Monomer Smiles 2: FC(F)(F)C1(c2cc3C(=O)OC(=O)c3cc2Oc2cc3C(=O)OC(=O)c3cc12)C(F)(F)F
+ID:P432460
+Name:functionalized poly({2,2'-diamino-4,4'-[2,2,2-trifluoro-1-(trifluoromethyl)ethane-1,1-diyl]diphenol}-alt-[4,4'-(hexafluoroisopropylidene)bis(phthalic anhydride)])
+Polymer Smiles:CCN(CCOc1ccc(cc1*)C(c1ccc(OCCN(CC)c2ccc(cc2)N=Nc2ccc(cc2)[N+]([O-])=O)c(c1)N1C(=O)c2ccc(cc2C1=O)C(c1ccc2C(=O)N(*)C(=O)c2c1)(C(F)(F)F)C(F)(F)F)(C(F)(F)F)C(F)(F)F)c1ccc(cc1)N=Nc1ccc(cc1)[N+]([O-])=O
+Monomer Smiles 1: Nc1c(OCCN(c2ccc(/N=N/c3ccc([N+]([O-])=O)cc3)cc2)CC)ccc(C(C(F)(F)F)(C(F)(F)F)c4cc(N)c(OCCN(c5ccc(/N=N/c6ccc([N+]([O-])=O)cc6)cc5)CC)cc4)c1
+Monomer Smiles 2: FC(F)(F)C(c1ccc2C(=O)OC(=O)c2c1)(c1ccc2C(=O)OC(=O)c2c1)C(F)(F)F
+ID:P432498
+Name:poly{[3,3'-(propane-1,3-diyldioxy)dianiline]-alt-([4,5'-biisobenzofuran]-1,1',3,3'-tetraone)}
+Polymer Smiles:[*]N1C(c2c(C1=O)c(c3cc4c(C(N(c5cc(OCCCOc6cc([*])ccc6)ccc5)C4=O)=O)cc3)ccc2)=O
+Monomer Smiles 1: Nc1cccc(OCCCOc2cccc(N)c2)c1
+Monomer Smiles 2: O=C1OC(=O)c2cc(ccc12)-c1cccc2C(=O)OC(=O)c12
+ID:P432625
+Name:poly{[N,N'-bis(6-hydroxyhexyl)-4,4'-carbonyldiphthalimide]-alt-(diphenyl carbonate)}
+Polymer Smiles:*CCCCCCOC(=O)OCCCCCCN1C(=O)c2ccc(cc2C1=O)-c1ccc(cc1)-c1ccc2C(=O)N(*)C(=O)c2c1
+Monomer Smiles 1: CN(c1ccc(/C=C/c2sc([N+]([O-])=O)cc2)cc1)CCOc3c(N)cc(N)c(OCCN(c4ccc(/C=C/c5sc([N+]([O-])=O)cc5)cc4)C)c3
+Monomer Smiles 2: O=C(Oc1ccccc1)Oc1ccccc1
+ID:P432653
+Name:poly{(butane-1,4-diol)-alt-[diethyl 2,2'-(butane-1,4-diyl)bis(1,3-dioxoisoindoline-5-carboxylic acid)]}
+Polymer Smiles:*c1ccc(cc1)-c1ccc(cc1)-c1ccc(cc1)-c1ccc(cc1)-c1ccc2C(=O)N(C(=O)c2c1)c1ccc(Cc2ccc(cc2)N2C(=O)c3ccc(*)cc3C2=O)cc1
+Monomer Smiles 1: O=C1OC(=O)c2cc(ccc12)-c1ccc(cc1)-c1ccc(cc1)-c1ccc(cc1)-c1ccc(cc1)-c1ccc2C(=O)OC(=O)c2c1
+Monomer Smiles 2: O=C(N(C1=O)CCCCN2C(c3c(C2=O)cc(C(O)=O)cc3)=O)c4c1cc(C(O)=O)cc4
+ID:P432713
+Name:2-({4-[(4-nitrophenyl)diazenyl]phenyl}(ethyl)amino}ethanol functionalized poly((4,6-diaminobenzene-1,3-diol)-alt-{5,5'-[2,2,2-trifluoro-1-(trifluoromethyl)ethane-1,1-diyl]bis(isobenzofuran-1,3-dione)})
+Polymer Smiles:CCN(CCOc1cc(OCCN(CC)c2ccc(cc2)N=Nc2ccc(cc2)[N+]([O-])=O)c(cc1*)N1C(=O)c2ccc(cc2C1=O)C(c1ccc2C(=O)N(*)C(=O)c2c1)(C(F)(F)F)C(F)(F)F)c1ccc(cc1)N=Nc1ccc(cc1)[N+]([O-])=O
+Monomer Smiles 1: FC(F)(F)C(c1ccc2C(=O)OC(=O)c2c1)(c1ccc2C(=O)OC(=O)c2c1)C(F)(F)F
+Monomer Smiles 2: CCN(c1ccc(/N=N/c2ccc([N+]([O-])=O)cc2)cc1)CCOc3c(N)cc(N)c(OCCN(c4ccc(/N=N/c5ccc([N+]([O-])=O)cc5)cc4)CC)c3
+ID:P432714
+Name:methanol and 2-(3-{4-[(2-hydroxyethyl)(methyl)amino]styryl}-5,5-dimethylclohex-2-en-1-ylidene)malononitrile functionalized poly((4,6-diaminobenzene-1,3-diol)-alt-{5,5'-[2,2,2-trifluoro-1-(trifluoromethyl)ethane-1,1-diyl]bis(isobenzofuran-1,3-dione)})
+Polymer Smiles:COc1cc(OCCN(C)c2ccc(C=CC3=CC(CC(C)(C)C3)=C(C#N)C#N)cc2)c(*)cc1N1C(=O)c2ccc(cc2C1=O)C(c1ccc2C(=O)N(*)C(=O)c2c1)(C(F)(F)F)C(F)(F)F
+Monomer Smiles 1: COc1c(N)cc(N)c(OCCN(c2ccc(/C=C/C3=C/C(CC(C)(C3)C)=C(C#N)\C#N)cc2)C)c1
+Monomer Smiles 2: FC(F)(F)C(c1ccc2C(=O)OC(=O)c2c1)(c1ccc2C(=O)OC(=O)c2c1)C(F)(F)F
+ID:P432715
+Name:2-(3-{4-[(2-hydroxyethyl)(methyl)amino]styryl}-5,5-dimethylclohex-2-en-1-ylidene)malononitrile functionalized poly((4,6-diaminobenzene-1,3-diol)-alt-{5,5'-[2,2,2-trifluoro-1-(trifluoromethyl)ethane-1,1-diyl]bis(isobenzofuran-1,3-dione)})
+Polymer Smiles:CN(CCOc1cc(OCCN(C)c2ccc(C=CC3=CC(CC(C)(C)C3)=C(C#N)C#N)cc2)c(cc1*)N1C(=O)c2ccc(cc2C1=O)C(c1ccc2C(=O)N(*)C(=O)c2c1)(C(F)(F)F)C(F)(F)F)c1ccc(C=CC2=CC(CC(C)(C)C2)=C(C#N)C#N)cc1
+Monomer Smiles 1: CN(c1ccc(/C=C/C2=C/C(CC(C)(C2)C)=C(C#N)\C#N)cc1)CCOc3c(N)cc(N)c(OCCN(c4ccc(/C=C/C5=C/C(CC(C)(C5)C)=C(C#N)/C#N)cc4)C)c3
+Monomer Smiles 2: FC(F)(F)C(c1ccc2C(=O)OC(=O)c2c1)(c1ccc2C(=O)OC(=O)c2c1)C(F)(F)F
+ID:P432716
+Name:methanol and 2-({4-[2-(5-nitrothiophen-2-yl)ethenyl]phenyl}(ethyl)amino}ethanol functionalized poly((4,6-diaminobenzene-1,3-diol)-alt-{5,5'-[2,2,2-trifluoro-1-(trifluoromethyl)ethane-1,1-diyl]bis(isobenzofuran-1,3-dione)})
+Polymer Smiles:COc1cc(OCCN(C)c2ccc(C=Cc3ccc(s3)[N+]([O-])=O)cc2)c(*)cc1N1C(=O)c2ccc(cc2C1=O)C(c1ccc2C(=O)N(*)C(=O)c2c1)(C(F)(F)F)C(F)(F)F
+Monomer Smiles 1: COc1c(N)cc(N)c(OCCN(c2ccc(/C=C/c3sc([N+]([O-])=O)cc3)cc2)C)c1
+Monomer Smiles 2: FC(F)(F)C(c1ccc2C(=O)OC(=O)c2c1)(c1ccc2C(=O)OC(=O)c2c1)C(F)(F)F
+ID:P432717
+Name:2-({4-[2-(5-nitrothiophen-2-yl)ethenyl]phenyl}(ethyl)amino}ethanol functionalized poly((4,6-diaminobenzene-1,3-diol)-alt-{5,5'-[2,2,2-trifluoro-1-(trifluoromethyl)ethane-1,1-diyl]bis(isobenzofuran-1,3-dione)})
+Polymer Smiles:CN(CCOc1cc(OCCN(C)c2ccc(C=Cc3ccc(s3)[N+]([O-])=O)cc2)c(cc1*)N1C(=O)c2ccc(cc2C1=O)C(c1ccc2C(=O)N(*)C(=O)c2c1)(C(F)(F)F)C(F)(F)F)c1ccc(C=Cc2ccc(s2)[N+]([O-])=O)cc1
+Monomer Smiles 1: CN(c1ccc(/C=C/c2sc([N+]([O-])=O)cc2)cc1)CCOc3c(N)cc(N)c(OCCN(c4ccc(/C=C/c5sc([N+]([O-])=O)cc5)cc4)C)c3
+Monomer Smiles 2: FC(F)(F)C(c1ccc2C(=O)OC(=O)c2c1)(c1ccc2C(=O)OC(=O)c2c1)C(F)(F)F
+ID:P432866
+Name:N-ethyl-N-(2-hydroxyethyl)-4-(1,2,2-tricyanoethenyl)aniline-functionalyzed poly((3',4-dihydroxybiphenyl-3,4'-diamine)-alt-{4,4'-[2,2,2-trifluoro-1-(trifluoromethyl)ethane-1,1-diyl]bis(phthalic anhydride)})
+Polymer Smiles:CCN(CCOc1cc(ccc1*)-c1ccc(N2C(=O)c3ccc(cc3C2=O)C(c2ccc3C(=O)N(*)C(=O)c3c2)(C(F)(F)F)C(F)(F)F)c(OCCN(CC)c2ccc(cc2)C(C#N)=C(C#N)C#N)c1)c1ccc(cc1)C(C#N)=C(C#N)C#N
+Monomer Smiles 1: Nc1c(OCCN(c2ccc(/C(C#N)=C(C#N)\C#N)cc2)CC)cc(c3cc(N)c(OCCN(c4ccc(/C(C#N)=C(C#N)\C#N)cc4)CC)cc3)cc1
+Monomer Smiles 2: FC(F)(F)C(c1ccc2C(=O)OC(=O)c2c1)(c1ccc2C(=O)OC(=O)c2c1)C(F)(F)F
+ID:P432985
+Name:poly{[4,4'-bis(4-aminophenoxy)benzophenone]-alt-(cis-hexadecahydro[5,5'-bi-2-benzofuran]-1,1',3,3'-tetraone)}
+Polymer Smiles:*N1C(=O)c2ccc(cc2C1=O)-c1ccc2C(=O)N(C(=O)c2c1)c1ccc(Oc2ccc(cc2)C(=O)c2ccc(Oc3ccc(*)cc3)cc2)cc1
+Monomer Smiles 1: Nc1ccc(Oc2ccc(cc2)C(=O)c2ccc(Oc3ccc(N)cc3)cc2)cc1
+Monomer Smiles 2: O=C1OC(C2=CC(C3=CC=C4C(C(OC4=O)=O)=C3)=CC=C12)=O
+ID:P433018
+Name:poly[(cis-1,2,3,4-cyclohexanetetracarboxylic dianhydride)-alt-4,4'-methylenedianiline]
+Polymer Smiles:*N1C(=O)C2CCC3C(C2C1=O)C(=O)N(C3=O)c1ccc(Cc2ccc(*)cc2)cc1
+Monomer Smiles 1: O=C(OC1=O)C2C1CCC(C(O3)=O)C2C3=O
+Monomer Smiles 2: Nc1ccc(Cc2ccc(N)cc2)cc1
+ID:P433019
+Name:poly[(cis-1,2,3,4-cyclohexanetetracarboxylic dianhydride)-alt-2,2'-dimethyl-4,4'-methylenedianiline]
+Polymer Smiles:Cc1cc(Cc2ccc(N3C(=O)C4CCC5C(C4C3=O)C(=O)N(*)C5=O)c(C)c2)ccc1*
+Monomer Smiles 1: O=C(OC1=O)C2C1CCC(C(O3)=O)C2C3=O
+Monomer Smiles 2: Cc1cc(Cc2ccc(N)c(C)c2)ccc1N
+ID:P433020
+Name:poly[(cis-1,2,3,4-cyclohexanetetracarboxylic dianhydride)-alt-4,4'-(1,4-phenylenedioxy)dianiline]
+Polymer Smiles:*N1C(=O)C2CCC3C(C2C1=O)C(=O)N(C3=O)c1ccc(Oc2ccc(Oc3ccc(*)cc3)cc2)cc1
+Monomer Smiles 1: O=C(OC1=O)C2C1CCC(C(O3)=O)C2C3=O
+Monomer Smiles 2: Nc1ccc(Oc2ccc(Oc3ccc(N)cc3)cc2)cc1
+ID:P433021
+Name:poly{(cis-1,2,3,4-cyclohexanetetracarboxylic dianhydride)-alt-4,4'-[1-methylethane-1,1-diylbis(4,1-phenyleneoxy)]dianiline}
+Polymer Smiles:CC(C)(c1ccc(Oc2ccc(*)cc2)cc1)c1ccc(Oc2ccc(cc2)N2C(=O)C3CCC4C(C3C2=O)C(=O)N(*)C4=O)cc1
+Monomer Smiles 1: O=C(OC1=O)C2C1CCC(C(O3)=O)C2C3=O
+Monomer Smiles 2: CC(C)(c1ccc(Oc2ccc(N)cc2)cc1)c1ccc(Oc2ccc(N)cc2)cc1
+ID:P433093
+Name:functionalized poly([5,5'-oxybis(1,3-dihydroisobenzofuran-1,3-dione)]-alt-{2,2'-diamino-4,4'-[2,2,2-trifluoro-1-(trifluoromethyl)ethane-1,1-diyl]diphenol})
+Polymer Smiles:CN(CCOc1ccc(cc1*)C(c1ccc(OCCN(C)c2ccc(C=CC3=CC(CC(C)(C)C3)=C(C#N)C#N)cc2)c(c1)N1C(=O)c2ccc(Oc3ccc4C(=O)N(*)C(=O)c4c3)cc2C1=O)(C(F)(F)F)C(F)(F)F)c1ccc(C=CC2=CC(CC(C)(C)C2)=C(C#N)C#N)cc1
+Monomer Smiles 1: O=C1OC(=O)c2cc(Oc3ccc4C(=O)OC(=O)c4c3)ccc12
+Monomer Smiles 2: Nc1c(OCCN(c2ccc(/C=C/C3=C/C(CC(C)(C3)C)=C(C#N)/C#N)cc2)C)ccc(C(C(F)(F)F)(C(F)(F)F)c4cc(N)c(OCCN(c5ccc(/C=C/C6=C/C(CC(C)(C6)C)=C(C#N)/C#N)cc5)C)cc4)c1
+ID:P433094
+Name:functionalized poly([5,5'-oxybis(1,3-dihydroisobenzofuran-1,3-dione)]-alt-{2,2'-diamino-4,4'-[2,2,2-trifluoro-1-(trifluoromethyl)ethane-1,1-diyl]diphenol})
+Polymer Smiles:CN(CCOc1ccc(cc1*)C(c1ccc(OCCN(C)c2ccc(C=CC3=CC(CC(C)(C)C3)=C(C#N)S(C)(=O)=O)cc2)c(c1)N1C(=O)c2ccc(Oc3ccc4C(=O)N(*)C(=O)c4c3)cc2C1=O)(C(F)(F)F)C(F)(F)F)c1ccc(C=CC2=CC(CC(C)(C)C2)=C(C#N)S(C)(=O)=O)cc1
+Monomer Smiles 1: O=C1OC(=O)c2cc(Oc3ccc4C(=O)OC(=O)c4c3)ccc12
+Monomer Smiles 2: Nc1c(OCCN(c2ccc(/C=C/C3=C/C(CC(C)(C3)C)=C(S(C)(=O)=O)\C#N)cc2)C)ccc(C(C(F)(F)F)(C(F)(F)F)c4cc(N)c(OCCN(c5ccc(/C=C/C6=C/C(CC(C)(C6)C)=C(S(C)(=O)=O)\C#N)cc5)C)cc4)c1
+ID:P433095
+Name:functionalized poly([5,5'-oxybis(1,3-dihydroisobenzofuran-1,3-dione)]-alt-{2,2'-diamino-4,4'-[2,2,2-trifluoro-1-(trifluoromethyl)ethane-1,1-diyl]diphenol})
+Polymer Smiles:CCN(CCOc1ccc(cc1*)C(c1ccc(OCCN(CC)c2ccc(C=CC3=CC(CC(C)(C)C3)=C(C#N)C#N)cc2)c(c1)N1C(=O)c2ccc(Oc3ccc4C(=O)N(*)C(=O)c4c3)cc2C1=O)(C(F)(F)F)C(F)(F)F)c1ccc(C=CC2=CC(CC(C)(C)C2)=C(C#N)C#N)cc1
+Monomer Smiles 1: O=C1OC(=O)c2cc(Oc3ccc4C(=O)OC(=O)c4c3)ccc12
+Monomer Smiles 2: Nc1c(OCCN(c2ccc(/C=C/C3=C/C(CC(C)(C3)C)=C(C#N)\C#N)cc2)CC)ccc(C(C(F)(F)F)(C(F)(F)F)c4cc(N)c(OCCN(c5ccc(/C=C/C6=C/C(CC(C)(C6)C)=C(C#N)\C#N)cc5)CC)cc4)c1
+ID:P433096
+Name:functionalized poly([5,5'-oxybis(1,3-dihydroisobenzofuran-1,3-dione)]-alt-{2,2'-diamino-4,4'-[2,2,2-trifluoro-1-(trifluoromethyl)ethane-1,1-diyl]diphenol})
+Polymer Smiles:CC1(C)CC(C=Cc2ccc(cc2)N(CCOc2ccc(cc2*)C(c2ccc(OCCN(c3ccccc3)c3ccc(C=CC4=CC(CC(C)(C)C4)=C(C#N)C#N)cc3)c(c2)N2C(=O)c3ccc(Oc4ccc5C(=O)N(*)C(=O)c5c4)cc3C2=O)(C(F)(F)F)C(F)(F)F)c2ccccc2)=CC(C1)=C(C#N)C#N
+Monomer Smiles 1: O=C1OC(=O)c2cc(Oc3ccc4C(=O)OC(=O)c4c3)ccc12
+Monomer Smiles 2: Nc1c(OCCN(c2ccc(/C=C/C3=C/C(CC(C)(C3)C)=C(C#N)\C#N)cc2)c4ccccc4)ccc(C(C(F)(F)F)(C(F)(F)F)c5cc(N)c(OCCN(c6ccc(/C=C/C7=C/C(CC(C)(C7)C)=C(C#N)/C#N)cc6)c8ccccc8)cc5)c1
+ID:P433097
+Name:functionalized poly([5,5'-oxybis(1,3-dihydroisobenzofuran-1,3-dione)]-alt-{2,2'-diamino-4,4'-[2,2,2-trifluoro-1-(trifluoromethyl)ethane-1,1-diyl]diphenol})
+Polymer Smiles:CC1(C)CC(C=Cc2ccc(cc2)N(CCOc2ccc(cc2*)C(c2ccc(OCCN(c3ccccc3)c3ccc(C=CC4=CC(CC(C)(C)C4)=C(C#N)S(C)(=O)=O)cc3)c(c2)N2C(=O)c3ccc(Oc4ccc5C(=O)N(*)C(=O)c5c4)cc3C2=O)(C(F)(F)F)C(F)(F)F)c2ccccc2)=CC(C1)=C(C#N)S(C)(=O)=O
+Monomer Smiles 1: O=C1OC(=O)c2cc(Oc3ccc4C(=O)OC(=O)c4c3)ccc12
+Monomer Smiles 2: Nc1c(OCCN(c2ccc(/C=C/C3=C/C(CC(C)(C3)C)=C([S](=O)=O)/C#N)cc2)c4ccccc4)ccc(C(C(F)(F)F)(C(F)(F)F)c5cc(N)c(OCCN(c6ccc(/C=C/C7=C/C(CC(C)(C7)C)=C([S](=O)=O)/C#N)cc6)c8ccccc8)cc5)c1
+ID:P433098
+Name:functionalized poly([5,5'-oxybis(1,3-dihydroisobenzofuran-1,3-dione)]-alt-{2,2'-diamino-4,4'-[2,2,2-trifluoro-1-(trifluoromethyl)ethane-1,1-diyl]diphenol})
+Polymer Smiles:COC(=O)C(C#N)=C1CC(C)(C)CC(C=Cc2ccc(cc2)N(C)CCOc2ccc(cc2N2C(=O)c3ccc(Oc4ccc5C(=O)N(*)C(=O)c5c4)cc3C2=O)C(C)(C)c2ccc(OCCN(c3ccccc3)c3ccc(C=CC4=CC(CC(C)(C)C4)=C(C#N)C(=O)OC)cc3)c(*)c2)=C1
+Monomer Smiles 1: O=C1OC(=O)c2cc(Oc3ccc4C(=O)OC(=O)c4c3)ccc12
+Monomer Smiles 2: Nc1c(OCCN(C)c2ccc(/C=C/C3=C/C(CC(C)(C3)C)=C(C#N)/C(OC)=O)cc2)ccc(C(C(F)(F)F)(C(F)(F)F)c4cc(N)c(OCCN(C)c5ccc(/C=C/C6=C/C(CC(C)(C6)C)=C(C#N)/C(OC)=O)cc5)cc4)c1
+ID:P433099
+Name:functionalized poly([5,5'-oxybis(1,3-dihydroisobenzofuran-1,3-dione)]-alt-{2,2'-diamino-4,4'-[2,2,2-trifluoro-1-(trifluoromethyl)ethane-1,1-diyl]diphenol})
+Polymer Smiles:CN(CCOc1ccc(cc1N1C(=O)c2ccc(Oc3ccc4C(=O)N(*)C(=O)c4c3)cc2C1=O)C(C)(C)c1ccc(OCCN(c2ccccc2)c2ccc(C=CC3=CC(CC(C)(C)C3)=C(C#N)C(=O)OCCc3ccccc3)cc2)c(*)c1)c1ccc(C=CC2=CC(CC(C)(C)C2)=C(C#N)C(=O)OCCc2ccccc2)cc1
+Monomer Smiles 1: O=C1OC(=O)c2cc(Oc3ccc4C(=O)OC(=O)c4c3)ccc12
+Monomer Smiles 2: Nc1c(OCCN(c2ccc(/C=C/C3=C/C(CC(C)(C3)C)=C(C(OCCc4ccccc4)=O)\C#N)cc2)c5ccccc5)ccc(C(C(F)(F)F)(C(F)(F)F)c6cc(N)c(OCCN(c7ccc(/C=C/C8=C/C(CC(C)(C8)C)=C(C(OCCc9ccccc9)=O)\C#N)cc7)c%10ccccc%10)cc6)c1
+ID:P433100
+Name:functionalized poly([5,5'-oxybis(1,3-dihydroisobenzofuran-1,3-dione)]-alt-{2,2'-diamino-4,4'-[2,2,2-trifluoro-1-(trifluoromethyl)ethane-1,1-diyl]diphenol})
+Polymer Smiles:CN(CCOc1ccc(cc1N1C(=O)c2ccc(Oc3ccc4C(=O)N(*)C(=O)c4c3)cc2C1=O)C(C)(C)c1ccc(OCCN(c2ccccc2)c2ccc(C=CC3=CC(CC(C)(C)C3)=C(C#N)C(=O)OCc3ccc(Oc4c(F)c(F)c(F)c(F)c4F)cc3)cc2)c(*)c1)c1ccc(C=CC2=CC(CC(C)(C)C2)=C(C#N)C(=O)OCc2ccc(Oc3c(F)c(F)c(F)c(F)c3F)cc2)cc1
+Monomer Smiles 1: O=C1OC(=O)c2cc(Oc3ccc4C(=O)OC(=O)c4c3)ccc12
+Monomer Smiles 2: Nc1c(OCCN(c2ccc(/C=C/C3=C/C(CC(C)(C3)C)=C(C(OCc4ccc(Oc5c(F)c(F)c(F)c(F)c5F)cc4)=O)\C#N)cc2)c6ccccc6)ccc(C(C(F)(F)F)(C(F)(F)F)c7cc(N)c(OCCN(c8ccc(/C=C/C9=C/C(CC(C)(C9)C)=C(C(OCc%10ccc(Oc%11c(F)c(F)c(F)c(F)c%11F)cc%10)=O)\C#N)cc8)c%12ccccc%12)cc7)c1
+ID:P452015
+Name:poly({2,2,3,3,5,5,6,6-octadeuterio-4,4'-[2,2,2-trideuterio-1-(trideuteriomethyl)ethane-1,1-diyl]diphenol}-alt-phosgene)
+Polymer Smiles:[2H]c1c([2H])c(c([2H])c([2H])c1*)C(c1c([2H])c([2H])c(OC(=O)O*)c([2H])c1[2H])(C([2H])([2H])[2H])C([2H])([2H])[2H]
+Monomer Smiles 1: ClC(Cl)=O
+Monomer Smiles 2: [2H]C([2H])(C(c1c([2H])c([2H])c(O)c([2H])c1[2H])(C([2H])([2H])[2H])C2=C(C([2H])=C(C([2H])=C2[2H])O)[2H])[2H]
+ID:P452020
+Name:poly{[4,4'-(nonane-4,4-diyl)diphenol]-alt-phosgene}
+Polymer Smiles:CCCCCC(CCCCC)(c1ccc(*)cc1)c1ccc(OC(=O)O*)cc1
+Monomer Smiles 1: ClC(Cl)=O
+Monomer Smiles 2: CCCCCC(c1ccc(O)cc1)(c2ccc(O)cc2)CCCCC
+ID:P452025
+Name:poly{[1,1-dichloro-2,2-bis(4-hydroxyphenyl)ethene]-alt-phosgene}
+Polymer Smiles:ClC(Cl)C(c1ccc(*)cc1)c1ccc(OC(=O)O*)cc1
+Monomer Smiles 1: ClC(Cl)=O
+Monomer Smiles 2: Oc1ccc(C(c2ccc(O)cc2)C(Cl)Cl)cc1
+ID:P452029
+Name:poly{(propane-1,3-dithiol)-alt-[4,4'-(1-methylethane-1,1-diyl)dibenzenethiol]}
+Polymer Smiles:CC(C)(c1ccc(*)cc1)c1ccc(OC(=O)SCCCSC(=O)O*)cc1
+Monomer Smiles 1: SCCCS
+Monomer Smiles 2: CC(c1ccc(OC(Cl)=O)cc1)(c2ccc(OC(Cl)=O)cc2)C
+ID:P452030
+Name:poly{(hexane-1,6-dithiol)-alt-[4,4'-(1-methylethane-1,1-diyl)dibenzenethiol]}
+Polymer Smiles:CC(C)(c1ccc(O*)cc1)c1ccc(OC(=O)SCCCCCCSC(*)=O)cc1
+Monomer Smiles 1: SCCCCCCS
+Monomer Smiles 2: CC(c1ccc(OC(Cl)=O)cc1)(c2ccc(OC(Cl)=O)cc2)C
+ID:P452043
+Name:poly{[4,4'-(1-methylethane-1,1-diyl)diphenol]-alt-phosgene}
+Polymer Smiles:CC(C)(c1ccc(*)cc1)c1ccc(OC(=O)O*)cc1S(=O)(=O)O[Na]
+Monomer Smiles 1: ClC(Cl)=O
+Monomer Smiles 2: CC(c1ccc(O)cc1S(=O)(O[Na])=O)(c2ccc(O)cc2)C
