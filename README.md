@@ -14,7 +14,9 @@ Supplmentary data for the maniscript "Essential Step toward Mining Big Polymer D
   - `All_good_train.txt`: all the polymers in the training set
   - `Addition/RingOpening/Condensation1/2_good_train.txt`: the polymers with the reaction type of addition/ring opening/condensation with 1 or 2 monomers
 
-## Data Format
+- `Machine_Learning/Test_Set/` contains the full testing set used in the study
+
+## Data Format of Training Set
 
 Eevery datapoint in data provided here are composed of serveral units. Every unit consists of four lines.
 
