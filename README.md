@@ -18,7 +18,7 @@ Supplmentary data for the maniscript "Essential Step toward Mining Big Polymer D
 
 ## Data Format of Training Set
 
-Eevery datapoint in data provided here are composed of serveral units. Every unit consists of four lines.
+Eevery datapoint in training set provided here is composed of serveral units. Every unit consists of four lines.
 
 - First line: ID in PoLyInfo database
 - Second line: Name of the polymer
