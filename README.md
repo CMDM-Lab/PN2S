@@ -1,6 +1,10 @@
 # PN2S
 
 Supplmentary data for the maniscript "Essential Step toward Mining Big Polymer Data: PolyName2Structure, Mapping Polymer Names to Structures".
+Please cite our article if you use the dataset:
+```
+Lin, C., Wang, P. H., Hsiao, Y., Chan, Y. T., Engler, A. C., Pitera, J. W., ... & Tseng, Y. J. (2020). Essential Step Toward Mining Big Polymer Data: PolyName2Structure, Mapping Polymer Names to Structures. ACS Applied Polymer Materials, 2(8), 3107-3113.
+```
 
 ## Data Description
 
